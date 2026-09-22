@@ -1,0 +1,3034 @@
+year,language,type,count
+1970,Adblock Filter List,data,75
+1970,Batchfile,programming,1
+1970,C,programming,493
+1970,C++,programming,2
+1970,CSS,markup,6
+1970,GCC Machine Description,programming,5
+1970,INI,data,20
+1970,Java,programming,872
+1970,Java Server Pages,programming,1
+1970,JavaScript,programming,9
+1970,Module Management System,programming,2
+1970,Perl,programming,1
+1970,Python,programming,161
+1970,Roff,markup,1
+1970,SAS,programming,3
+1970,Shell,programming,7
+1970,Vim script,programming,6
+1970,WebAssembly,programming,3
+1970,XML,data,520
+1980,C++,programming,4
+1980,GCC Machine Description,programming,6
+1980,Ignore List,data,1
+1980,JavaScript,programming,1
+1980,Python,programming,2
+1980,RBS,data,1
+1980,Ruby,programming,43
+1982,DIGITAL Command Language,programming,1
+1982,Roff,markup,1
+1994,C,programming,16
+1994,GCC Machine Description,programming,1
+1998,C,programming,11
+1998,C++,programming,9
+1998,TeX,markup,1
+1999,Adblock Filter List,data,2
+1999,Batchfile,programming,8
+1999,C,programming,301
+1999,C++,programming,389
+1999,CSV,data,1
+1999,INI,data,4
+1999,Ignore List,data,1
+1999,Java,programming,215
+1999,Makefile,programming,4
+1999,Python,programming,534
+1999,Shell,programming,1
+1999,XML,data,30
+2000,Adblock Filter List,data,21
+2000,C,programming,282
+2000,C++,programming,264
+2000,Diff,data,1
+2000,Java,programming,342
+2000,JavaScript,programming,2
+2000,Makefile,programming,3
+2000,Python,programming,81
+2000,TeX,markup,2
+2001,Adblock Filter List,data,28
+2001,Batchfile,programming,7
+2001,C,programming,47
+2001,C++,programming,155
+2001,Diff,data,6
+2001,HTML,markup,3
+2001,INI,data,1
+2001,Java,programming,322
+2001,Java Server Pages,programming,1
+2001,JavaScript,programming,1
+2001,Perl,programming,4
+2001,Python,programming,24
+2001,SCSS,markup,1
+2001,Shell,programming,6
+2001,X BitMap,data,46
+2001,XML,data,3
+2002,Adblock Filter List,data,12
+2002,Batchfile,programming,1
+2002,C,programming,393
+2002,C++,programming,266
+2002,Diff,data,13
+2002,HTML,markup,9
+2002,Java,programming,712
+2002,PostScript,markup,4
+2002,Python,programming,171
+2002,Rich Text Format,markup,128
+2002,TeX,markup,2
+2002,Wavefront Material,data,1
+2002,Wavefront Object,data,1
+2002,XML,data,8
+2002,XSLT,programming,5
+2002,desktop,data,2
+2003,Adblock Filter List,data,186
+2003,Batchfile,programming,15
+2003,BibTeX,markup,4
+2003,C,programming,988
+2003,C++,programming,954
+2003,CSS,markup,1
+2003,Diff,data,4
+2003,Emacs Lisp,programming,50
+2003,GCC Machine Description,programming,1
+2003,HTML,markup,83
+2003,Handlebars,markup,2
+2003,INI,data,5
+2003,Ignore List,data,3
+2003,Java,programming,2940
+2003,Java Server Pages,programming,12
+2003,JavaScript,programming,1
+2003,Makefile,programming,6
+2003,Microsoft Visual Studio Solution,data,4
+2003,OCaml,programming,59
+2003,Perl,programming,14
+2003,PostScript,markup,4
+2003,Python,programming,61
+2003,Rich Text Format,markup,1300
+2003,Ruby,programming,1
+2003,Shell,programming,46
+2003,TeX,markup,125
+2003,X PixMap,data,86
+2003,XML,data,83
+2003,XSLT,programming,35
+2004,Adblock Filter List,data,66
+2004,Batchfile,programming,4
+2004,BibTeX,markup,8
+2004,C,programming,469
+2004,C++,programming,657
+2004,CSS,markup,9
+2004,Emacs Lisp,programming,49
+2004,HTML,markup,24
+2004,IGOR Pro,programming,2
+2004,Java,programming,2625
+2004,Java Server Pages,programming,1
+2004,JavaScript,programming,1
+2004,Microsoft Visual Studio Solution,data,4
+2004,Perl,programming,7
+2004,PostScript,markup,20
+2004,Python,programming,210
+2004,Rich Text Format,markup,831
+2004,SQL,data,3
+2004,Shell,programming,37
+2004,Spline Font Database,data,2
+2004,TeX,markup,140
+2004,XML,data,149
+2004,XSLT,programming,5
+2005,Adblock Filter List,data,82
+2005,Batchfile,programming,6
+2005,Boo,programming,2
+2005,C,programming,732
+2005,C++,programming,410
+2005,CSS,markup,28
+2005,CSV,data,2
+2005,Checksums,data,1
+2005,Diff,data,2
+2005,Emacs Lisp,programming,42
+2005,Fortran Free Form,programming,90
+2005,HTML,markup,71
+2005,INI,data,27
+2005,Inno Setup,programming,2
+2005,Java,programming,2063
+2005,Java Server Pages,programming,11
+2005,JavaScript,programming,3
+2005,Makefile,programming,12
+2005,Microsoft Visual Studio Solution,data,4
+2005,PLSQL,programming,2
+2005,Pascal,programming,19
+2005,Perl,programming,13
+2005,PostScript,markup,1
+2005,Python,programming,79
+2005,Rich Text Format,markup,474
+2005,SQL,data,3
+2005,Shell,programming,32
+2005,TeX,markup,51
+2005,Web Ontology Language,data,2
+2005,XML,data,241
+2005,XSLT,programming,2
+2005,sed,programming,2
+2006,Adblock Filter List,data,358
+2006,Assembly,programming,5
+2006,Awk,programming,1
+2006,Batchfile,programming,9
+2006,BibTeX,markup,2
+2006,Boo,programming,5
+2006,C,programming,898
+2006,C++,programming,695
+2006,CSS,markup,57
+2006,ColdFusion,programming,1
+2006,Diff,data,3
+2006,Emacs Lisp,programming,8
+2006,Fortran Free Form,programming,70
+2006,HTML,markup,14
+2006,IGOR Pro,programming,10
+2006,INI,data,20
+2006,Ignore List,data,25
+2006,Java,programming,6698
+2006,Java Server Pages,programming,75
+2006,JavaScript,programming,101
+2006,Makefile,programming,9
+2006,Microsoft Visual Studio Solution,data,12
+2006,NSIS,programming,3
+2006,Perl,programming,14
+2006,Python,programming,2428
+2006,Rich Text Format,markup,209
+2006,Ruby,programming,202
+2006,SQL,data,2
+2006,Shell,programming,48
+2006,SuperCollider,programming,4
+2006,Tcsh,programming,4
+2006,TeX,markup,416
+2006,VBScript,programming,2
+2006,WebAssembly,programming,2
+2006,X PixMap,data,3
+2006,XML,data,1234
+2006,XSLT,programming,5
+2006,desktop,data,1
+2006,sed,programming,1
+2007,ASP.NET,programming,3
+2007,Adblock Filter List,data,597
+2007,Assembly,programming,2
+2007,Batchfile,programming,41
+2007,BibTeX,markup,3
+2007,Boo,programming,9
+2007,C,programming,7580
+2007,C++,programming,7528
+2007,CMake,programming,2
+2007,CSS,markup,92
+2007,CSV,data,38
+2007,ColdFusion,programming,36
+2007,ColdFusion CFC,programming,7
+2007,Csound,programming,5
+2007,Csound Document,programming,2
+2007,Csound Score,programming,6
+2007,Diff,data,2
+2007,Dotenv,data,1
+2007,Emacs Lisp,programming,16
+2007,EmberScript,programming,3
+2007,Forth,programming,6
+2007,Fortran Free Form,programming,134
+2007,GDB,programming,3
+2007,GLSL,programming,3
+2007,GtkRC,data,3
+2007,HLSL,programming,5
+2007,HTML,markup,248
+2007,HTML+ERB,markup,7
+2007,Haskell,programming,1
+2007,IGOR Pro,programming,274
+2007,INI,data,82
+2007,Ignore List,data,31
+2007,Inno Setup,programming,1
+2007,JFlex,programming,10
+2007,Java,programming,12005
+2007,Java Server Pages,programming,69
+2007,JavaScript,programming,188
+2007,LabVIEW,programming,10
+2007,Lex,programming,1
+2007,Lua,programming,1
+2007,Makefile,programming,55
+2007,Microsoft Visual Studio Solution,data,73
+2007,NSIS,programming,1
+2007,Perl,programming,14
+2007,Praat,programming,1
+2007,Python,programming,3273
+2007,Rich Text Format,markup,152
+2007,Ruby,programming,106
+2007,SVG,data,22
+2007,Scheme,programming,2
+2007,Shell,programming,144
+2007,SuperCollider,programming,19
+2007,TeX,markup,62
+2007,Vim script,programming,1
+2007,Visual Basic .NET,programming,36
+2007,Wavefront Material,data,2
+2007,Wavefront Object,data,3
+2007,WebAssembly,programming,1
+2007,X PixMap,data,4
+2007,XML,data,2860
+2007,XSLT,programming,10
+2007,nesC,programming,84
+2008,AIDL,programming,1
+2008,ASL,programming,1
+2008,ASP.NET,programming,93
+2008,Adblock Filter List,data,2687
+2008,AppleScript,programming,15
+2008,Awk,programming,3
+2008,Batchfile,programming,103
+2008,BibTeX,markup,1
+2008,C,programming,10035
+2008,C++,programming,5155
+2008,CMake,programming,2
+2008,COLLADA,data,4
+2008,CSS,markup,284
+2008,CSV,data,88
+2008,Checksums,data,6
+2008,Diff,data,33
+2008,Dotenv,data,1
+2008,Emacs Lisp,programming,2
+2008,EmberScript,programming,2
+2008,Erlang,programming,1
+2008,Forth,programming,1
+2008,Fortran Free Form,programming,78
+2008,GDB,programming,4
+2008,Genshi,programming,57
+2008,Groovy,programming,53
+2008,Groovy Server Pages,programming,15
+2008,GtkRC,data,3
+2008,HTML,markup,121
+2008,HTML+ERB,markup,3
+2008,Haskell,programming,10
+2008,IGOR Pro,programming,6
+2008,INI,data,114
+2008,Ignore List,data,18
+2008,JFlex,programming,1
+2008,Java,programming,17614
+2008,Java Server Pages,programming,185
+2008,JavaScript,programming,362
+2008,LabVIEW,programming,1
+2008,Lua,programming,318
+2008,Makefile,programming,33
+2008,Max,programming,1016
+2008,Microsoft Visual Studio Solution,data,81
+2008,NSIS,programming,3
+2008,PHP,programming,18
+2008,Pascal,programming,116
+2008,Perl,programming,63
+2008,PostScript,markup,3
+2008,PowerShell,programming,13
+2008,Python,programming,3376
+2008,REALbasic,programming,83
+2008,Rich Text Format,markup,35
+2008,Ruby,programming,486
+2008,SPARQL,data,29
+2008,SQL,data,1
+2008,SVG,data,45
+2008,Scala,programming,282
+2008,Shell,programming,1561
+2008,Squirrel,programming,4
+2008,SuperCollider,programming,30
+2008,Tcsh,programming,5
+2008,TeX,markup,19
+2008,Turtle,data,40
+2008,Unity3D Asset,data,118
+2008,VBScript,programming,1
+2008,Vala,programming,20
+2008,Valve Data Format,data,1
+2008,Vento,markup,2
+2008,Vim script,programming,6
+2008,Wavefront Material,data,7
+2008,Wavefront Object,data,8
+2008,WebAssembly,programming,4
+2008,X PixMap,data,2
+2008,XML,data,2804
+2008,XSLT,programming,11
+2008,ZIL,programming,41
+2008,desktop,data,5
+2008,nesC,programming,34
+2008,sed,programming,2
+2009,ASP.NET,programming,481
+2009,Adblock Filter List,data,1423
+2009,Alloy,programming,1
+2009,Batchfile,programming,63
+2009,BibTeX,markup,12
+2009,BlitzMax,programming,1
+2009,C,programming,10185
+2009,C++,programming,8362
+2009,CMake,programming,8
+2009,CSS,markup,282
+2009,CSV,data,500
+2009,ColdFusion,programming,1
+2009,Cuda,programming,111
+2009,Darcs Patch,data,9
+2009,Diff,data,41
+2009,Dotenv,data,1
+2009,Ecere Projects,data,1
+2009,Emacs Lisp,programming,20
+2009,EmberScript,programming,1
+2009,Forth,programming,41
+2009,Fortran Free Form,programming,900
+2009,GCC Machine Description,programming,2
+2009,GDB,programming,1
+2009,Gherkin,programming,21
+2009,Git Config,data,1
+2009,Gnuplot,programming,29
+2009,Graphviz (DOT),data,1
+2009,Groovy,programming,238
+2009,Groovy Server Pages,programming,299
+2009,HTML,markup,1064
+2009,HTML+ERB,markup,120
+2009,HTML+PHP,markup,50
+2009,Haml,markup,23
+2009,Haskell,programming,1
+2009,INI,data,202
+2009,Ignore List,data,44
+2009,Inno Setup,programming,8
+2009,JFlex,programming,1
+2009,Java,programming,16616
+2009,Java Server Pages,programming,199
+2009,JavaScript,programming,561
+2009,Jest Snapshot,data,2
+2009,LLVM,programming,8
+2009,LabVIEW,programming,16
+2009,Linker Script,programming,1
+2009,Literate Haskell,programming,1
+2009,Lua,programming,241
+2009,Makefile,programming,61
+2009,Max,programming,558
+2009,Microsoft Visual Studio Solution,data,139
+2009,NSIS,programming,9
+2009,PHP,programming,116
+2009,Pascal,programming,5
+2009,Perl,programming,42
+2009,PostScript,markup,64
+2009,Protocol Buffer,data,10
+2009,Python,programming,4066
+2009,R,programming,1
+2009,REALbasic,programming,12
+2009,Rich Text Format,markup,7
+2009,Ruby,programming,374
+2009,SPARQL,data,3
+2009,SQL,data,18
+2009,SVG,data,133
+2009,Sass,markup,9
+2009,Scala,programming,431
+2009,Shell,programming,157
+2009,SuperCollider,programming,10
+2009,Tcsh,programming,5
+2009,TeX,markup,646
+2009,Turtle,data,10
+2009,Unity3D Asset,data,5
+2009,Vala,programming,8
+2009,Valve Data Format,data,12
+2009,Vim Snippet,markup,3
+2009,Vim script,programming,23
+2009,Visual Basic .NET,programming,115
+2009,Visual Basic 6.0,programming,7
+2009,Wavefront Object,data,30
+2009,WebAssembly,programming,2
+2009,X PixMap,data,12
+2009,XML,data,4207
+2009,XSLT,programming,95
+2009,desktop,data,7
+2009,sed,programming,3
+2010,ASP.NET,programming,345
+2010,Adblock Filter List,data,5265
+2010,Adobe Font Metrics,data,1
+2010,Alloy,programming,1
+2010,AspectJ,programming,1
+2010,AutoHotkey,programming,9
+2010,BAML,programming,1
+2010,Batchfile,programming,89
+2010,BibTeX,markup,8
+2010,BlitzMax,programming,6
+2010,C,programming,9917
+2010,C++,programming,7261
+2010,CMake,programming,46
+2010,CSS,markup,533
+2010,CSV,data,75
+2010,Classic ASP,programming,131
+2010,ColdFusion,programming,3
+2010,ColdFusion CFC,programming,5
+2010,Common Lisp,programming,2
+2010,Cython,programming,15
+2010,DIGITAL Command Language,programming,1
+2010,Diff,data,89
+2010,Emacs Lisp,programming,1
+2010,Erlang,programming,8
+2010,Forth,programming,14
+2010,Fortran Free Form,programming,387
+2010,GCC Machine Description,programming,29
+2010,Gherkin,programming,42
+2010,Git Config,data,3
+2010,Gnuplot,programming,31
+2010,Groovy,programming,611
+2010,Groovy Server Pages,programming,659
+2010,HTML,markup,1358
+2010,HTML+ERB,markup,393
+2010,HTML+PHP,markup,572
+2010,HTML+Razor,markup,4
+2010,Haml,markup,50
+2010,Haskell,programming,26
+2010,INI,data,336
+2010,Ignore List,data,70
+2010,JFlex,programming,5
+2010,Java,programming,25278
+2010,Java Server Pages,programming,1120
+2010,JavaScript,programming,1028
+2010,Jest Snapshot,data,2
+2010,LabVIEW,programming,2
+2010,Linker Script,programming,4
+2010,Lua,programming,36
+2010,Makefile,programming,47
+2010,Max,programming,67
+2010,Microsoft Visual Studio Solution,data,133
+2010,NSIS,programming,23
+2010,PHP,programming,4
+2010,PLSQL,programming,2
+2010,Pascal,programming,115
+2010,Perl,programming,64
+2010,PigLatin,programming,2
+2010,PostScript,markup,53
+2010,Processing,programming,7
+2010,Prolog,programming,6
+2010,Protocol Buffer,data,3
+2010,Public Key,data,2
+2010,Python,programming,6955
+2010,QMake,programming,5
+2010,R,programming,7
+2010,Raw token data,data,9
+2010,Red,programming,63
+2010,Rich Text Format,markup,24
+2010,Roff,markup,2
+2010,Ruby,programming,986
+2010,STL,data,1
+2010,SVG,data,85
+2010,Sass,markup,48
+2010,Scala,programming,1
+2010,Shell,programming,192
+2010,SuperCollider,programming,35
+2010,TSV,data,1
+2010,Tcsh,programming,3
+2010,TeX,markup,233
+2010,Unity3D Asset,data,2
+2010,VBScript,programming,2
+2010,Vala,programming,181
+2010,Valve Data Format,data,13
+2010,Vim Snippet,markup,5
+2010,Vim script,programming,20
+2010,Visual Basic .NET,programming,193
+2010,Wavefront Material,data,1
+2010,Wavefront Object,data,15
+2010,Web Ontology Language,data,7
+2010,WebAssembly,programming,1
+2010,Wolfram Language,programming,6
+2010,X BitMap,data,14
+2010,X PixMap,data,2
+2010,XML,data,5368
+2010,XSLT,programming,78
+2010,YASnippet,markup,1
+2010,Yacc,programming,9
+2010,desktop,data,17
+2011,AIDL,programming,6
+2011,ALGOL,programming,7
+2011,ASP.NET,programming,980
+2011,Adblock Filter List,data,5053
+2011,Altium Designer,data,15
+2011,AspectJ,programming,411
+2011,Awk,programming,2
+2011,Batchfile,programming,111
+2011,BibTeX,markup,9
+2011,C,programming,7910
+2011,C++,programming,7037
+2011,CMake,programming,80
+2011,CSS,markup,846
+2011,CSV,data,66
+2011,Checksums,data,360
+2011,Clarion,programming,3
+2011,CoffeeScript,programming,26
+2011,Common Lisp,programming,8
+2011,Cython,programming,46
+2011,DM,programming,6
+2011,Diff,data,40
+2011,Dotenv,data,1
+2011,EJS,markup,9
+2011,Emacs Lisp,programming,40
+2011,Erlang,programming,4
+2011,Forth,programming,18
+2011,Fortran Free Form,programming,502
+2011,GCC Machine Description,programming,71
+2011,GLSL,programming,73
+2011,Gerber Image,data,1
+2011,Gherkin,programming,24
+2011,Git Config,data,12
+2011,Go,programming,21
+2011,Go Template,markup,7
+2011,Groovy,programming,353
+2011,Groovy Server Pages,programming,295
+2011,HLSL,programming,35
+2011,HTML,markup,526
+2011,HTML+ERB,markup,238
+2011,HTML+PHP,markup,562
+2011,HTML+Razor,markup,188
+2011,Haml,markup,106
+2011,Handlebars,markup,1
+2011,Haskell,programming,8
+2011,IGOR Pro,programming,1
+2011,INI,data,1007
+2011,Ignore List,data,100
+2011,JFlex,programming,28
+2011,Java,programming,30664
+2011,Java Server Pages,programming,1346
+2011,JavaScript,programming,1118
+2011,Jest Snapshot,data,2
+2011,Less,markup,2
+2011,Lua,programming,4
+2011,Makefile,programming,55
+2011,Max,programming,5
+2011,Microsoft Visual Studio Solution,data,170
+2011,NSIS,programming,8
+2011,PHP,programming,1
+2011,PLSQL,programming,11
+2011,Pascal,programming,1616
+2011,Perl,programming,75
+2011,PostScript,markup,47
+2011,PowerShell,programming,1
+2011,Processing,programming,1
+2011,Protocol Buffer,data,24
+2011,Public Key,data,9
+2011,Pug,markup,6
+2011,Python,programming,5378
+2011,QML,programming,3
+2011,R,programming,80
+2011,ROS Interface,data,16
+2011,Racket,programming,20
+2011,Rich Text Format,markup,4
+2011,Ruby,programming,726
+2011,SCSS,markup,8
+2011,SMT,programming,1
+2011,SVG,data,9
+2011,Sass,markup,6
+2011,Scala,programming,457
+2011,Shell,programming,349
+2011,Standard ML,programming,2
+2011,SuperCollider,programming,2
+2011,TeX,markup,164
+2011,Thrift,programming,1
+2011,Unity3D Asset,data,4
+2011,VBScript,programming,1
+2011,Velocity Template Language,markup,1
+2011,Vim Snippet,markup,9
+2011,Vim script,programming,33
+2011,Visual Basic .NET,programming,370
+2011,Wavefront Object,data,38
+2011,Web Ontology Language,data,2
+2011,Wolfram Language,programming,19
+2011,X BitMap,data,1
+2011,X PixMap,data,38
+2011,XML,data,13451
+2011,XSLT,programming,12
+2011,Yacc,programming,38
+2011,desktop,data,1
+2012,ASP.NET,programming,139
+2012,Adblock Filter List,data,2532
+2012,Assembly,programming,16
+2012,Awk,programming,2
+2012,Batchfile,programming,61
+2012,BibTeX,markup,12
+2012,C,programming,4822
+2012,C++,programming,6300
+2012,CMake,programming,50
+2012,CSS,markup,1335
+2012,CSV,data,1955
+2012,Cabal Config,data,11
+2012,Checksums,data,143
+2012,Clarion,programming,1
+2012,Classic ASP,programming,1
+2012,CoffeeScript,programming,128
+2012,ColdFusion,programming,1
+2012,Cuda,programming,10
+2012,Cython,programming,15
+2012,DIGITAL Command Language,programming,1
+2012,DM,programming,39
+2012,Diff,data,89
+2012,Dotenv,data,5
+2012,EJS,markup,4
+2012,Emacs Lisp,programming,26
+2012,EmberScript,programming,2
+2012,Forth,programming,26
+2012,Fortran Free Form,programming,639
+2012,GCC Machine Description,programming,693
+2012,GLSL,programming,25
+2012,Gerber Image,data,1
+2012,Gherkin,programming,17
+2012,Git Config,data,21
+2012,Go,programming,137
+2012,Go Template,markup,1
+2012,Gradle,data,2
+2012,Groovy,programming,110
+2012,Groovy Server Pages,programming,117
+2012,HTML,markup,628
+2012,HTML+ERB,markup,252
+2012,HTML+PHP,markup,357
+2012,HTML+Razor,markup,195
+2012,Haml,markup,24
+2012,Handlebars,markup,17
+2012,Haskell,programming,149
+2012,Haxe,programming,377
+2012,IGOR Pro,programming,2
+2012,INI,data,537
+2012,Ignore List,data,221
+2012,JFlex,programming,9
+2012,Java,programming,31600
+2012,Java Server Pages,programming,928
+2012,JavaScript,programming,1977
+2012,Kotlin,programming,9
+2012,LOLCODE,programming,41
+2012,Less,markup,11
+2012,Linker Script,programming,1
+2012,Lua,programming,23
+2012,Makefile,programming,34
+2012,Max,programming,8
+2012,Metal,programming,121
+2012,Microsoft Visual Studio Solution,data,173
+2012,NSIS,programming,7
+2012,NWScript,programming,730
+2012,PHP,programming,3
+2012,PLSQL,programming,12
+2012,Pascal,programming,67
+2012,Perl,programming,17
+2012,PostScript,markup,2
+2012,PowerShell,programming,5
+2012,Processing,programming,10
+2012,Protocol Buffer,data,3
+2012,Public Key,data,7
+2012,Pug,markup,5
+2012,Python,programming,4325
+2012,QML,programming,77
+2012,QMake,programming,6
+2012,R,programming,48
+2012,Ragel,programming,8
+2012,Rich Text Format,markup,4
+2012,Ruby,programming,1383
+2012,SCSS,markup,72
+2012,SVG,data,68
+2012,Scala,programming,15
+2012,Shell,programming,315
+2012,Smali,programming,151
+2012,Stata,programming,2
+2012,SystemVerilog,programming,1
+2012,Tcl,programming,9
+2012,TeX,markup,424
+2012,Thrift,programming,1
+2012,Turtle,data,9
+2012,Twig,markup,92
+2012,Unity3D Asset,data,320
+2012,VHDL,programming,293
+2012,Vim Snippet,markup,17
+2012,Vim script,programming,122
+2012,Visual Basic .NET,programming,457
+2012,Wavefront Material,data,7
+2012,Wavefront Object,data,117
+2012,Wolfram Language,programming,12
+2012,X PixMap,data,2
+2012,XML,data,25553
+2012,XQuery,programming,8
+2012,XSLT,programming,14
+2012,Yacc,programming,6
+2012,desktop,data,7
+2012,mIRC Script,programming,2
+2012,sed,programming,1
+2013,1C Enterprise,programming,9
+2013,ALGOL,programming,2
+2013,ASP.NET,programming,1081
+2013,Adblock Filter List,data,4580
+2013,Awk,programming,1
+2013,BAML,programming,71
+2013,Batchfile,programming,66
+2013,BibTeX,markup,8
+2013,Blueprint,markup,9
+2013,Brightscript,programming,278
+2013,C,programming,6788
+2013,C++,programming,3823
+2013,CMake,programming,137
+2013,CSON,data,2
+2013,CSS,markup,1674
+2013,CSV,data,2672
+2013,Cabal Config,data,12
+2013,Checksums,data,772
+2013,Classic ASP,programming,13
+2013,Clojure,programming,36
+2013,CoffeeScript,programming,527
+2013,Common Lisp,programming,1
+2013,Cuda,programming,5
+2013,Cython,programming,1
+2013,D,programming,1
+2013,DM,programming,1698
+2013,Dart,programming,89
+2013,Diff,data,174
+2013,Dotenv,data,4
+2013,EJS,markup,133
+2013,Elvish,programming,3
+2013,Emacs Lisp,programming,121
+2013,EmberScript,programming,11
+2013,Erlang,programming,16
+2013,F#,programming,1
+2013,Forth,programming,65
+2013,Fortran Free Form,programming,243
+2013,GCC Machine Description,programming,1621
+2013,GLSL,programming,11
+2013,Gherkin,programming,6
+2013,Git Config,data,30
+2013,Gnuplot,programming,6
+2013,Go,programming,82
+2013,Go Template,markup,10
+2013,Gradle,data,25
+2013,Graphviz (DOT),data,39
+2013,Groovy,programming,69
+2013,Groovy Server Pages,programming,22
+2013,HTML,markup,1464
+2013,HTML+ERB,markup,674
+2013,HTML+PHP,markup,27
+2013,HTML+Razor,markup,145
+2013,Haml,markup,144
+2013,Handlebars,markup,3
+2013,Haskell,programming,99
+2013,INI,data,273
+2013,Ignore List,data,339
+2013,JFlex,programming,8
+2013,JSON,data,23
+2013,Java,programming,46108
+2013,Java Server Pages,programming,1038
+2013,JavaScript,programming,4876
+2013,Jest Snapshot,data,9
+2013,Jupyter Notebook,markup,86
+2013,Less,markup,133
+2013,Linker Script,programming,2
+2013,Lua,programming,658
+2013,M3U,data,2
+2013,MDX,markup,2
+2013,Macaulay2,programming,1
+2013,Makefile,programming,87
+2013,Mako,programming,7
+2013,Max,programming,1
+2013,Microsoft Visual Studio Solution,data,309
+2013,OCaml,programming,6
+2013,PHP,programming,57
+2013,Pascal,programming,5
+2013,Perl,programming,31
+2013,PostScript,markup,72
+2013,PowerShell,programming,23
+2013,Processing,programming,27
+2013,Protocol Buffer,data,6
+2013,Public Key,data,1
+2013,Pug,markup,231
+2013,Pure Data,data,1
+2013,Python,programming,6336
+2013,QML,programming,29
+2013,QMake,programming,3
+2013,ROS Interface,data,7
+2013,Racket,programming,45
+2013,Red,programming,6
+2013,Rich Text Format,markup,16
+2013,Ruby,programming,2777
+2013,SCSS,markup,349
+2013,STL,data,7
+2013,SVG,data,35
+2013,Scala,programming,776
+2013,Shell,programming,445
+2013,Smali,programming,98
+2013,Stata,programming,1
+2013,Stylus,markup,16
+2013,SuperCollider,programming,2
+2013,SystemVerilog,programming,2
+2013,TSV,data,2
+2013,Tcl,programming,10
+2013,Tcsh,programming,3
+2013,TeX,markup,389
+2013,Thrift,programming,4
+2013,Twig,markup,264
+2013,Unity3D Asset,data,2774
+2013,VCL,programming,1
+2013,VHDL,programming,5
+2013,Vim Snippet,markup,7
+2013,Vim script,programming,140
+2013,Visual Basic .NET,programming,102
+2013,Wavefront Material,data,4
+2013,Wavefront Object,data,2180
+2013,Web Ontology Language,data,1
+2013,WebVTT,data,3
+2013,X BitMap,data,1
+2013,XML,data,14272
+2013,XML Property List,data,2
+2013,XSLT,programming,7
+2013,YASnippet,markup,6
+2013,Yacc,programming,11
+2013,desktop,data,22
+2013,fish,programming,3
+2013,sed,programming,1
+2014,ABAP,programming,5
+2014,ANTLR,programming,3
+2014,API Blueprint,markup,30
+2014,ASL,programming,2
+2014,ASP.NET,programming,838
+2014,Adblock Filter List,data,3636
+2014,AppleScript,programming,2
+2014,AspectJ,programming,4
+2014,BAML,programming,67
+2014,Batchfile,programming,91
+2014,BibTeX,markup,21
+2014,Brightscript,programming,35
+2014,C,programming,6275
+2014,C++,programming,3834
+2014,CMake,programming,100
+2014,COLLADA,data,5
+2014,CSON,data,18
+2014,CSS,markup,3062
+2014,CSV,data,640
+2014,Checksums,data,193
+2014,Clojure,programming,228
+2014,CoffeeScript,programming,644
+2014,Common Lisp,programming,5
+2014,Cuda,programming,3
+2014,Cython,programming,17
+2014,DM,programming,6052
+2014,Diff,data,111
+2014,Dockerfile,programming,1
+2014,Dotenv,data,2
+2014,EJS,markup,255
+2014,EditorConfig,data,6
+2014,Elixir,programming,2
+2014,Elvish,programming,1
+2014,Emacs Lisp,programming,436
+2014,EmberScript,programming,1
+2014,Forth,programming,23
+2014,Fortran Free Form,programming,376
+2014,GCC Machine Description,programming,3511
+2014,GLSL,programming,42
+2014,Gerber Image,data,5
+2014,Gherkin,programming,47
+2014,Git Config,data,45
+2014,Go,programming,112
+2014,Go Template,markup,105
+2014,Gradle,data,107
+2014,Groovy,programming,51
+2014,Groovy Server Pages,programming,6
+2014,HTML,markup,648
+2014,HTML+ERB,markup,1713
+2014,HTML+PHP,markup,558
+2014,HTML+Razor,markup,480
+2014,Haml,markup,90
+2014,Handlebars,markup,28
+2014,Haskell,programming,87
+2014,INI,data,801
+2014,Ignore List,data,556
+2014,Io,programming,2
+2014,JFlex,programming,3
+2014,JSON,data,1
+2014,JSON5,data,2
+2014,Java,programming,51449
+2014,Java Server Pages,programming,1501
+2014,JavaScript,programming,12257
+2014,Jest Snapshot,data,1
+2014,Jinja,markup,6
+2014,Jupyter Notebook,markup,32
+2014,Less,markup,843
+2014,Linker Script,programming,1
+2014,Lua,programming,529
+2014,Makefile,programming,171
+2014,Mako,programming,7
+2014,Max,programming,2
+2014,Microsoft Visual Studio Solution,data,366
+2014,NSIS,programming,2
+2014,OCaml,programming,4
+2014,Oxygene,programming,3
+2014,PHP,programming,242
+2014,PLSQL,programming,3
+2014,Pascal,programming,51
+2014,Perl,programming,38
+2014,PostScript,markup,11
+2014,PowerShell,programming,25
+2014,Processing,programming,5
+2014,Public Key,data,5
+2014,Pug,markup,492
+2014,Python,programming,8145
+2014,QML,programming,6
+2014,QMake,programming,2
+2014,R,programming,701
+2014,Racket,programming,1
+2014,Red,programming,48
+2014,Rich Text Format,markup,9
+2014,RobotFramework,programming,38
+2014,Roff,markup,1
+2014,Ruby,programming,4242
+2014,SCSS,markup,879
+2014,SQF,programming,28
+2014,SQL,data,1
+2014,STL,data,120
+2014,SVG,data,163
+2014,Sass,markup,531
+2014,Scala,programming,280
+2014,Shell,programming,1047
+2014,Slim,markup,5
+2014,Smali,programming,317
+2014,Spline Font Database,data,4
+2014,Stata,programming,3
+2014,Stylus,markup,68
+2014,Swift,programming,276
+2014,TSV,data,1
+2014,Tcl,programming,9
+2014,Tcsh,programming,2
+2014,TeX,markup,390
+2014,Thrift,programming,1
+2014,Twig,markup,28
+2014,Unity3D Asset,data,6097
+2014,VBScript,programming,4
+2014,VHDL,programming,7
+2014,Verilog,programming,2
+2014,Vim Snippet,markup,4
+2014,Vim script,programming,396
+2014,Visual Basic .NET,programming,44
+2014,Wavefront Material,data,14
+2014,Wavefront Object,data,1743
+2014,WebVTT,data,2
+2014,Wolfram Language,programming,42
+2014,XML,data,14757
+2014,XML Property List,data,2
+2014,XSLT,programming,31
+2014,YAML,data,1
+2014,desktop,data,4
+2014,fish,programming,6
+2014,iCalendar,data,1
+2015,AIDL,programming,13
+2015,ANTLR,programming,7
+2015,API Blueprint,markup,11
+2015,ASL,programming,25
+2015,ASP.NET,programming,593
+2015,Adblock Filter List,data,11872
+2015,Altium Designer,data,60
+2015,AppleScript,programming,1
+2015,AutoHotkey,programming,8
+2015,Awk,programming,5
+2015,BAML,programming,1
+2015,Batchfile,programming,205
+2015,BibTeX,markup,3
+2015,Brightscript,programming,1
+2015,C,programming,10428
+2015,C++,programming,5608
+2015,CLIPS,programming,2
+2015,CMake,programming,75
+2015,COLLADA,data,6
+2015,CSON,data,26
+2015,CSS,markup,6528
+2015,CSV,data,218
+2015,Cabal Config,data,2
+2015,Checksums,data,118
+2015,Classic ASP,programming,37
+2015,Clojure,programming,180
+2015,CoffeeScript,programming,603
+2015,Crystal,programming,1
+2015,Cython,programming,33
+2015,DIGITAL Command Language,programming,2
+2015,DM,programming,5104
+2015,DNS Zone,data,3
+2015,Dart,programming,3
+2015,Diff,data,33
+2015,Dockerfile,programming,5
+2015,Dotenv,data,12
+2015,EJS,markup,130
+2015,EditorConfig,data,5
+2015,Elixir,programming,13
+2015,Elvish,programming,32
+2015,Emacs Lisp,programming,151
+2015,Erlang,programming,1
+2015,Forth,programming,72
+2015,Fortran Free Form,programming,335
+2015,GCC Machine Description,programming,6695
+2015,GDB,programming,12
+2015,GEDCOM,data,12
+2015,GLSL,programming,48
+2015,Gentoo Ebuild,programming,3
+2015,Gerber Image,data,51
+2015,Gherkin,programming,11
+2015,Git Config,data,58
+2015,Go,programming,811
+2015,Go Template,markup,44
+2015,Gradle,data,379
+2015,Graphviz (DOT),data,1
+2015,Groovy,programming,142
+2015,HCL,programming,1
+2015,HLSL,programming,24
+2015,HOCON,data,5
+2015,HTML,markup,515
+2015,HTML+ERB,markup,874
+2015,HTML+PHP,markup,298
+2015,HTML+Razor,markup,391
+2015,Haml,markup,525
+2015,Handlebars,markup,100
+2015,Haskell,programming,128
+2015,INI,data,892
+2015,Ignore List,data,836
+2015,Inno Setup,programming,198
+2015,Io,programming,1
+2015,JFlex,programming,2
+2015,JSON,data,8
+2015,JSON5,data,1
+2015,Java,programming,34786
+2015,Java Server Pages,programming,695
+2015,JavaScript,programming,32695
+2015,Jest Snapshot,data,6
+2015,JetBrains MPS,programming,4
+2015,Julia,programming,1
+2015,Jupyter Notebook,markup,185
+2015,Latte,markup,190
+2015,Less,markup,2197
+2015,Linker Script,programming,13
+2015,Lua,programming,770
+2015,Makefile,programming,134
+2015,Mako,programming,5
+2015,Max,programming,5
+2015,Microsoft Visual Studio Solution,data,405
+2015,NEON,data,4
+2015,NSIS,programming,1
+2015,OpenSCAD,programming,1
+2015,PHP,programming,321
+2015,PLSQL,programming,2
+2015,Perl,programming,168
+2015,PlantUML,data,1
+2015,PostScript,markup,20
+2015,PowerShell,programming,165
+2015,Processing,programming,1
+2015,Protocol Buffer,data,4
+2015,Public Key,data,4
+2015,Pug,markup,311
+2015,Python,programming,12586
+2015,QML,programming,5
+2015,QMake,programming,13
+2015,R,programming,668
+2015,RAML,markup,1
+2015,Racket,programming,2
+2015,Raw token data,data,1
+2015,Red,programming,21
+2015,Rich Text Format,markup,19
+2015,RobotFramework,programming,46
+2015,Roff,markup,1
+2015,Ruby,programming,2770
+2015,SCSS,markup,822
+2015,SPARQL,data,13
+2015,SQF,programming,7
+2015,STL,data,39
+2015,SVG,data,764
+2015,SWIG,programming,2
+2015,Sass,markup,320
+2015,Scala,programming,472
+2015,Scheme,programming,19
+2015,Shell,programming,1428
+2015,Slim,markup,18
+2015,Smali,programming,81
+2015,Stylus,markup,71
+2015,Svelte,markup,1
+2015,Swift,programming,434
+2015,TOML,data,18
+2015,TSV,data,9
+2015,Tcl,programming,19
+2015,Tcsh,programming,5
+2015,TeX,markup,334
+2015,Thrift,programming,9
+2015,Turtle,data,33
+2015,Twig,markup,172
+2015,Unity3D Asset,data,5533
+2015,VBScript,programming,1
+2015,VHDL,programming,10
+2015,Vala,programming,10
+2015,Vim Snippet,markup,1
+2015,Vim script,programming,346
+2015,Visual Basic .NET,programming,538
+2015,Volt,programming,9
+2015,Wavefront Material,data,6
+2015,Wavefront Object,data,327
+2015,Windows Registry Entries,data,2
+2015,Wolfram Language,programming,5
+2015,X PixMap,data,35
+2015,XML,data,29737
+2015,XML Property List,data,6
+2015,XQuery,programming,7
+2015,XSLT,programming,640
+2015,Yacc,programming,5
+2015,desktop,data,14
+2015,dircolors,data,1
+2015,fish,programming,11
+2015,iCalendar,data,2
+2015,kvlang,markup,4
+2015,wisp,programming,1
+2016,ABAP,programming,1
+2016,AIDL,programming,5
+2016,ANTLR,programming,1
+2016,API Blueprint,markup,19
+2016,ASL,programming,28
+2016,ASP.NET,programming,150
+2016,Ada,programming,4
+2016,Adblock Filter List,data,5926
+2016,Altium Designer,data,10
+2016,Awk,programming,5
+2016,BAML,programming,5
+2016,Batchfile,programming,223
+2016,BibTeX,markup,16
+2016,C,programming,8330
+2016,C++,programming,4912
+2016,CMake,programming,95
+2016,COLLADA,data,2
+2016,CSON,data,60
+2016,CSS,markup,4081
+2016,CSV,data,354
+2016,Checksums,data,264
+2016,Clarion,programming,1
+2016,Classic ASP,programming,1
+2016,Clojure,programming,274
+2016,CoffeeScript,programming,223
+2016,Cuda,programming,12
+2016,Cython,programming,55
+2016,DM,programming,480
+2016,DNS Zone,data,1
+2016,Dart,programming,14
+2016,Diff,data,24
+2016,Dockerfile,programming,20
+2016,Dotenv,data,18
+2016,EJS,markup,47
+2016,EditorConfig,data,16
+2016,Elixir,programming,5
+2016,Emacs Lisp,programming,333
+2016,Erlang,programming,29
+2016,F#,programming,23
+2016,FlatBuffers,data,2
+2016,Forth,programming,76
+2016,Fortran Free Form,programming,283
+2016,GCC Machine Description,programming,49097
+2016,GDB,programming,3
+2016,GLSL,programming,482
+2016,Gerber Image,data,14
+2016,Gherkin,programming,67
+2016,Git Config,data,39
+2016,Go,programming,687
+2016,Go Template,markup,45
+2016,Godot Resource,data,3
+2016,Gradle,data,650
+2016,Graphviz (DOT),data,43
+2016,Groovy,programming,431
+2016,Groovy Server Pages,programming,369
+2016,HCL,programming,2
+2016,HLSL,programming,4
+2016,HTML,markup,202
+2016,HTML+ERB,markup,1418
+2016,HTML+PHP,markup,337
+2016,HTML+Razor,markup,292
+2016,Haml,markup,192
+2016,Handlebars,markup,405
+2016,Haskell,programming,35
+2016,IL Assembly,programming,119
+2016,INI,data,590
+2016,IRC log,data,22
+2016,Ignore List,data,986
+2016,Inno Setup,programming,6
+2016,Io,programming,1
+2016,JSON,data,6
+2016,JSON5,data,2
+2016,Java,programming,39742
+2016,Java Server Pages,programming,2127
+2016,JavaScript,programming,24859
+2016,Jest Snapshot,data,13
+2016,Jinja,markup,11
+2016,Julia,programming,151
+2016,Jupyter Notebook,markup,256
+2016,Kotlin,programming,704
+2016,LOLCODE,programming,2
+2016,Latte,markup,140
+2016,Less,markup,1087
+2016,Linker Script,programming,14
+2016,Logos,programming,1
+2016,Lua,programming,2422
+2016,MATLAB,programming,1
+2016,MQL4,programming,2
+2016,Makefile,programming,122
+2016,Mako,programming,43
+2016,Metal,programming,4
+2016,Microsoft Visual Studio Solution,data,282
+2016,NEON,data,6
+2016,Nix,programming,1
+2016,Nunjucks,markup,10
+2016,OpenSCAD,programming,2
+2016,PDDL,programming,4
+2016,PHP,programming,118
+2016,PLSQL,programming,11
+2016,Pascal,programming,42
+2016,Perl,programming,17
+2016,PlantUML,data,10
+2016,PostScript,markup,23
+2016,PowerShell,programming,153
+2016,Processing,programming,55
+2016,Protocol Buffer,data,3
+2016,Public Key,data,4
+2016,Pug,markup,281
+2016,PureBasic,programming,30
+2016,Python,programming,14596
+2016,QML,programming,57
+2016,QMake,programming,19
+2016,R,programming,140
+2016,ROS Interface,data,1
+2016,Ragel,programming,1
+2016,Raw token data,data,24
+2016,Red,programming,25
+2016,Rich Text Format,markup,331
+2016,RobotFramework,programming,91
+2016,Roff,markup,2
+2016,Ruby,programming,4754
+2016,SCSS,markup,1935
+2016,SQL,data,2
+2016,STL,data,26
+2016,SVG,data,450
+2016,SWIG,programming,11
+2016,Sass,markup,215
+2016,Scala,programming,288
+2016,Shell,programming,1994
+2016,Slim,markup,277
+2016,Smali,programming,160
+2016,SourcePawn,programming,2
+2016,Standard ML,programming,1
+2016,Stylus,markup,38
+2016,SuperCollider,programming,1
+2016,Swift,programming,3658
+2016,SystemVerilog,programming,11
+2016,TOML,data,42
+2016,TSV,data,2
+2016,Tcl,programming,377
+2016,Tcsh,programming,13
+2016,TeX,markup,241
+2016,Thrift,programming,2
+2016,Twig,markup,605
+2016,Unity3D Asset,data,8562
+2016,VHDL,programming,2
+2016,Velocity Template Language,markup,5
+2016,Vim Snippet,markup,9
+2016,Vim script,programming,403
+2016,Visual Basic .NET,programming,204
+2016,Visual Basic 6.0,programming,1
+2016,Vue,markup,32
+2016,Wavefront Material,data,36
+2016,Wavefront Object,data,314
+2016,Web Ontology Language,data,5
+2016,Windows Registry Entries,data,7
+2016,Witcher Script,programming,5
+2016,Wolfram Language,programming,4
+2016,XML,data,108134
+2016,XML Property List,data,1
+2016,XQuery,programming,1
+2016,XSLT,programming,65
+2016,YAML,data,3
+2016,YANG,data,68
+2016,YASnippet,markup,1
+2016,desktop,data,2
+2016,dircolors,data,6
+2016,fish,programming,81
+2016,iCalendar,data,1
+2017,1C Enterprise,programming,20
+2017,ABAP,programming,9
+2017,ANTLR,programming,1
+2017,API Blueprint,markup,2
+2017,ASL,programming,5
+2017,ASP.NET,programming,78
+2017,Ada,programming,9
+2017,Adblock Filter List,data,4672
+2017,Altium Designer,data,11
+2017,AppleScript,programming,1
+2017,AutoHotkey,programming,10
+2017,AutoIt,programming,5
+2017,BAML,programming,40
+2017,BBCode,markup,2
+2017,Ballerina,programming,4
+2017,Batchfile,programming,129
+2017,Berry,programming,5
+2017,BibTeX,markup,11
+2017,C,programming,5928
+2017,C#,programming,1
+2017,C++,programming,4192
+2017,CMake,programming,47
+2017,COLLADA,data,18
+2017,CSON,data,124
+2017,CSS,markup,4410
+2017,CSV,data,683
+2017,Cabal Config,data,84
+2017,Checksums,data,177
+2017,Classic ASP,programming,1
+2017,Clojure,programming,98
+2017,CoffeeScript,programming,1253
+2017,Common Lisp,programming,1
+2017,Crystal,programming,8
+2017,Cuda,programming,2
+2017,DIGITAL Command Language,programming,40
+2017,DM,programming,100
+2017,Dart,programming,72
+2017,Diff,data,48
+2017,Dockerfile,programming,30
+2017,Dotenv,data,54
+2017,EJS,markup,87
+2017,EditorConfig,data,19
+2017,Elixir,programming,42
+2017,Emacs Lisp,programming,262
+2017,Erlang,programming,2
+2017,F#,programming,18
+2017,F*,programming,1
+2017,FlatBuffers,data,14
+2017,Forth,programming,369
+2017,Fortran Free Form,programming,232
+2017,GCC Machine Description,programming,15250
+2017,GDB,programming,6
+2017,GLSL,programming,34
+2017,GN,data,4
+2017,Gerber Image,data,21
+2017,Gherkin,programming,7
+2017,Git Config,data,51
+2017,Go,programming,1969
+2017,Go Template,markup,85
+2017,Gradle,data,788
+2017,GraphQL,data,59
+2017,Graphviz (DOT),data,7
+2017,Groovy,programming,262
+2017,Groovy Server Pages,programming,92
+2017,HCL,programming,2
+2017,HLSL,programming,16
+2017,HTML,markup,582
+2017,HTML+ECR,markup,1
+2017,HTML+ERB,markup,2182
+2017,HTML+PHP,markup,83
+2017,HTML+Razor,markup,699
+2017,HTTP,data,4
+2017,Haml,markup,124
+2017,Handlebars,markup,238
+2017,Haskell,programming,464
+2017,Haxe,programming,1
+2017,INI,data,268
+2017,Idris,programming,13
+2017,Ignore List,data,1193
+2017,ImageJ Macro,programming,2
+2017,JSON,data,564
+2017,Java,programming,36571
+2017,Java Server Pages,programming,2158
+2017,JavaScript,programming,27112
+2017,Jest Snapshot,data,239
+2017,Jinja,markup,69
+2017,Julia,programming,69
+2017,Jupyter Notebook,markup,460
+2017,Just,programming,1
+2017,Kotlin,programming,453
+2017,Less,markup,614
+2017,LilyPond,programming,4
+2017,Linker Script,programming,6
+2017,Liquid,markup,79
+2017,Logos,programming,12
+2017,Lua,programming,1992
+2017,M3U,data,4
+2017,MATLAB,programming,3
+2017,Makefile,programming,162
+2017,Metal,programming,6
+2017,Microsoft Visual Studio Solution,data,274
+2017,NEON,data,2
+2017,NSIS,programming,3
+2017,NetLogo,programming,64
+2017,Nginx,data,7
+2017,Nix,programming,5
+2017,OpenSCAD,programming,7
+2017,PEG.js,programming,1
+2017,PHP,programming,81
+2017,PLSQL,programming,5
+2017,Pascal,programming,24
+2017,Perl,programming,19
+2017,PlantUML,data,2
+2017,PostScript,markup,23
+2017,PowerShell,programming,122
+2017,Processing,programming,424
+2017,Promela,programming,6
+2017,Protocol Buffer,data,180
+2017,Public Key,data,3
+2017,Pug,markup,238
+2017,PureBasic,programming,2
+2017,Python,programming,18296
+2017,QML,programming,61
+2017,QMake,programming,8
+2017,R,programming,314
+2017,RAML,markup,1
+2017,Raw token data,data,8
+2017,Rebol,programming,1
+2017,Red,programming,4
+2017,Rich Text Format,markup,26
+2017,RobotFramework,programming,38
+2017,Ruby,programming,4019
+2017,SAS,programming,1
+2017,SCSS,markup,1805
+2017,SPARQL,data,6
+2017,SQF,programming,14
+2017,SQL,data,1
+2017,STL,data,27
+2017,SVG,data,1639
+2017,SWIG,programming,5
+2017,Sass,markup,180
+2017,Scala,programming,415
+2017,Shell,programming,2306
+2017,Slim,markup,75
+2017,Smali,programming,143
+2017,SourcePawn,programming,1
+2017,Starlark,programming,13
+2017,Stata,programming,65
+2017,Stylus,markup,117
+2017,SuperCollider,programming,1
+2017,Svelte,markup,1
+2017,Swift,programming,4474
+2017,SystemVerilog,programming,6
+2017,TOML,data,84
+2017,TSV,data,4
+2017,Tcl,programming,226
+2017,Tcsh,programming,7
+2017,TeX,markup,201
+2017,Thrift,programming,1
+2017,Turtle,data,1
+2017,Twig,markup,1137
+2017,Unity3D Asset,data,7625
+2017,VBScript,programming,1
+2017,Vim Snippet,markup,20
+2017,Vim script,programming,698
+2017,Visual Basic .NET,programming,26
+2017,Volt,programming,3
+2017,Vue,markup,400
+2017,Wavefront Material,data,7
+2017,Wavefront Object,data,313
+2017,X PixMap,data,7
+2017,XML,data,18831
+2017,XSLT,programming,2
+2017,YAML,data,3
+2017,YANG,data,1
+2017,desktop,data,3
+2017,edn,data,1
+2017,fish,programming,61
+2017,kvlang,markup,3
+2018,1C Enterprise,programming,80
+2018,ABAP,programming,1
+2018,ANTLR,programming,1
+2018,API Blueprint,markup,5
+2018,ASL,programming,10
+2018,ASP.NET,programming,108
+2018,Ada,programming,3
+2018,Adblock Filter List,data,7423
+2018,Alloy,programming,1
+2018,Altium Designer,data,9
+2018,AppleScript,programming,2
+2018,AspectJ,programming,2
+2018,AutoIt,programming,1
+2018,Awk,programming,2
+2018,BAML,programming,10
+2018,Ballerina,programming,44
+2018,Batchfile,programming,355
+2018,BibTeX,markup,40
+2018,C,programming,7012
+2018,C++,programming,6184
+2018,CLIPS,programming,34
+2018,CMake,programming,109
+2018,COLLADA,data,40
+2018,CSON,data,30
+2018,CSS,markup,5331
+2018,CSV,data,1498
+2018,Cabal Config,data,7
+2018,Checksums,data,463
+2018,Classic ASP,programming,12
+2018,Clojure,programming,110
+2018,CoffeeScript,programming,241
+2018,ColdFusion,programming,3
+2018,ColdFusion CFC,programming,21
+2018,Crystal,programming,15
+2018,Cython,programming,4
+2018,DIGITAL Command Language,programming,3
+2018,DM,programming,35
+2018,Dart,programming,133
+2018,Diff,data,1677
+2018,Dockerfile,programming,34
+2018,Dotenv,data,58
+2018,EJS,markup,195
+2018,Edge,markup,3
+2018,EditorConfig,data,20
+2018,Elixir,programming,69
+2018,Elm,programming,49
+2018,Emacs Lisp,programming,290
+2018,Erlang,programming,15
+2018,FIRRTL,programming,1
+2018,Fennel,programming,2
+2018,Forth,programming,543
+2018,Fortran Free Form,programming,188
+2018,GCC Machine Description,programming,15647
+2018,GDB,programming,6
+2018,GLSL,programming,86
+2018,GN,data,52
+2018,GSC,programming,1
+2018,Gerber Image,data,58
+2018,Gherkin,programming,108
+2018,Git Config,data,85
+2018,Go,programming,1509
+2018,Go Template,markup,97
+2018,Godot Resource,data,19
+2018,Gradle,data,903
+2018,GraphQL,data,108
+2018,Graphviz (DOT),data,29
+2018,Groovy,programming,182
+2018,HCL,programming,35
+2018,HLSL,programming,4
+2018,HTML,markup,416
+2018,HTML+ECR,markup,2
+2018,HTML+ERB,markup,2221
+2018,HTML+PHP,markup,46
+2018,HTML+Razor,markup,937
+2018,HTTP,data,2
+2018,Haml,markup,6
+2018,Handlebars,markup,846
+2018,Haskell,programming,75
+2018,INI,data,306
+2018,Ignore List,data,1334
+2018,Inno Setup,programming,3
+2018,Io,programming,1
+2018,JSON,data,52
+2018,JSON5,data,1
+2018,Java,programming,35959
+2018,Java Server Pages,programming,1527
+2018,JavaScript,programming,35622
+2018,Jest Snapshot,data,322
+2018,Jinja,markup,33
+2018,Julia,programming,74
+2018,Jupyter Notebook,markup,933
+2018,Kotlin,programming,2979
+2018,LLVM,programming,5
+2018,LOLCODE,programming,2
+2018,Latte,markup,3
+2018,Less,markup,239
+2018,Linker Script,programming,7
+2018,Liquid,markup,100
+2018,Logos,programming,20
+2018,LookML,programming,2
+2018,Lua,programming,1835
+2018,M3U,data,1
+2018,MDX,markup,1
+2018,Makefile,programming,353
+2018,Mako,programming,1
+2018,Max,programming,3
+2018,Microsoft Visual Studio Solution,data,375
+2018,NEON,data,2
+2018,NSIS,programming,2
+2018,Nginx,data,2
+2018,Ninja,data,1
+2018,Nix,programming,12
+2018,Nunjucks,markup,1
+2018,OpenSCAD,programming,1
+2018,PHP,programming,82
+2018,PLSQL,programming,28
+2018,Pascal,programming,22
+2018,Perl,programming,8
+2018,PlantUML,data,6
+2018,PostCSS,markup,1
+2018,PostScript,markup,30
+2018,PowerShell,programming,97
+2018,Processing,programming,19
+2018,Promela,programming,9
+2018,Protocol Buffer,data,159
+2018,Public Key,data,10
+2018,Pug,markup,665
+2018,Python,programming,26338
+2018,QML,programming,1
+2018,R,programming,252
+2018,RAML,markup,1
+2018,ROS Interface,data,24
+2018,Racket,programming,54
+2018,Raku,programming,497
+2018,Raw token data,data,2
+2018,Red,programming,12
+2018,Rich Text Format,markup,12
+2018,RobotFramework,programming,121
+2018,Roff,markup,3
+2018,Ruby,programming,4911
+2018,SCSS,markup,2327
+2018,SQL,data,1
+2018,STL,data,13
+2018,SVG,data,965
+2018,Sass,markup,329
+2018,Scala,programming,134
+2018,Scheme,programming,40
+2018,Scilab,programming,2
+2018,Self,programming,2
+2018,Shell,programming,2568
+2018,Slang,programming,3
+2018,Slim,markup,257
+2018,Standard ML,programming,3
+2018,Stata,programming,4
+2018,Stylus,markup,60
+2018,SuperCollider,programming,1
+2018,Swift,programming,1809
+2018,TOML,data,130
+2018,TSV,data,2
+2018,Tcl,programming,8
+2018,Tcsh,programming,38
+2018,TeX,markup,368
+2018,Twig,markup,957
+2018,Unity3D Asset,data,10328
+2018,VHDL,programming,44
+2018,Vala,programming,241
+2018,Valve Data Format,data,10
+2018,Vim Snippet,markup,18
+2018,Vim script,programming,598
+2018,Visual Basic .NET,programming,16
+2018,Vue,markup,1624
+2018,Wavefront Material,data,9
+2018,Wavefront Object,data,157
+2018,Web Ontology Language,data,7
+2018,Wolfram Language,programming,5
+2018,X BitMap,data,7
+2018,X PixMap,data,1
+2018,XML,data,20413
+2018,XML Property List,data,1
+2018,XSLT,programming,7
+2018,YAML,data,2
+2018,YANG,data,2
+2018,Yacc,programming,26
+2018,desktop,data,12
+2018,dircolors,data,1
+2018,edn,data,11
+2018,fish,programming,162
+2018,kvlang,markup,53
+2018,nesC,programming,76
+2018,xBase,programming,2
+2019,1C Enterprise,programming,225
+2019,ABAP,programming,3
+2019,ANTLR,programming,44
+2019,API Blueprint,markup,6
+2019,ASP.NET,programming,315
+2019,Adblock Filter List,data,42387
+2019,Altium Designer,data,7
+2019,AppleScript,programming,2
+2019,AutoHotkey,programming,7
+2019,AutoIt,programming,3
+2019,Awk,programming,7
+2019,BAML,programming,17
+2019,Ballerina,programming,4
+2019,Batchfile,programming,153
+2019,BibTeX,markup,29
+2019,BitBake,programming,1
+2019,C,programming,9023
+2019,C++,programming,6899
+2019,CMake,programming,481
+2019,COLLADA,data,1
+2019,CSON,data,17
+2019,CSS,markup,6399
+2019,CSV,data,1580
+2019,Cabal Config,data,4
+2019,Checksums,data,106
+2019,Clarion,programming,1
+2019,Classic ASP,programming,349
+2019,Clojure,programming,339
+2019,CoffeeScript,programming,57
+2019,ColdFusion,programming,2
+2019,ColdFusion CFC,programming,4
+2019,Crystal,programming,1
+2019,Cuda,programming,66
+2019,Cython,programming,5
+2019,DIGITAL Command Language,programming,36
+2019,DM,programming,32
+2019,Dart,programming,1673
+2019,Dhall,programming,11
+2019,Diff,data,2504
+2019,Dockerfile,programming,145
+2019,Dotenv,data,121
+2019,E-mail,data,1
+2019,EJS,markup,330
+2019,Edge,markup,12
+2019,EditorConfig,data,17
+2019,Elixir,programming,41
+2019,Elm,programming,22
+2019,Emacs Lisp,programming,414
+2019,Erlang,programming,41
+2019,Fennel,programming,3
+2019,Forth,programming,483
+2019,Fortran Free Form,programming,64
+2019,GCC Machine Description,programming,26158
+2019,GDB,programming,8
+2019,GLSL,programming,28
+2019,GN,data,132
+2019,Gerber Image,data,11
+2019,Gherkin,programming,69
+2019,Git Config,data,70
+2019,Go,programming,1506
+2019,Go Template,markup,124
+2019,Godot Resource,data,133
+2019,Gradle,data,1269
+2019,GraphQL,data,16
+2019,Graphviz (DOT),data,13
+2019,Groovy,programming,225
+2019,HCL,programming,21
+2019,HLSL,programming,15
+2019,HTML,markup,1543
+2019,HTML+EEX,markup,1
+2019,HTML+ERB,markup,1868
+2019,HTML+PHP,markup,18
+2019,HTML+Razor,markup,2445
+2019,HTTP,data,1
+2019,Haml,markup,118
+2019,Handlebars,markup,1090
+2019,Haskell,programming,95
+2019,INI,data,434
+2019,Ignore List,data,1553
+2019,Inno Setup,programming,2
+2019,Io,programming,3
+2019,JSON,data,52
+2019,JSON with Comments,data,1
+2019,JSON5,data,1
+2019,Java,programming,39416
+2019,Java Server Pages,programming,1471
+2019,JavaScript,programming,39352
+2019,Jest Snapshot,data,398
+2019,Jinja,markup,2
+2019,Julia,programming,11
+2019,Jupyter Notebook,markup,1301
+2019,Kotlin,programming,3433
+2019,LSL,programming,6
+2019,Latte,markup,17
+2019,Less,markup,462
+2019,Linker Script,programming,26
+2019,Liquid,markup,1
+2019,Logos,programming,31
+2019,LookML,programming,11
+2019,Lua,programming,816
+2019,M3U,data,8
+2019,MDX,markup,81
+2019,Makefile,programming,455
+2019,Mako,programming,1
+2019,Max,programming,7
+2019,Microsoft Visual Studio Solution,data,438
+2019,MoonScript,programming,3
+2019,Mustache,markup,6
+2019,NEON,data,8
+2019,Nextflow,programming,3
+2019,Ninja,data,4
+2019,Nix,programming,3
+2019,Nunjucks,markup,16
+2019,OCaml,programming,34
+2019,PHP,programming,50
+2019,PLSQL,programming,1
+2019,Pascal,programming,874
+2019,Perl,programming,37
+2019,PlantUML,data,8
+2019,PostScript,markup,17
+2019,PowerShell,programming,114
+2019,Prisma,data,4
+2019,Processing,programming,149
+2019,Protocol Buffer,data,62
+2019,Protocol Buffer Text Format,data,1
+2019,Public Key,data,4
+2019,Pug,markup,158
+2019,PureBasic,programming,22
+2019,PureScript,programming,229
+2019,Python,programming,31287
+2019,QML,programming,15
+2019,QMake,programming,11
+2019,R,programming,48
+2019,Raku,programming,784
+2019,Raw token data,data,3
+2019,Red,programming,30
+2019,Rich Text Format,markup,15
+2019,RobotFramework,programming,58
+2019,Roff,markup,4
+2019,Ruby,programming,4038
+2019,SCSS,markup,1946
+2019,SQL,data,8
+2019,STL,data,20
+2019,SVG,data,1032
+2019,Sass,markup,127
+2019,Scala,programming,269
+2019,Scheme,programming,24
+2019,Scilab,programming,15
+2019,Shell,programming,2832
+2019,Slim,markup,12
+2019,Stata,programming,2
+2019,Stylus,markup,35
+2019,SuperCollider,programming,2
+2019,Swift,programming,1206
+2019,SystemVerilog,programming,24
+2019,TOML,data,230
+2019,TSV,data,19
+2019,Tcl,programming,55
+2019,Tcsh,programming,46
+2019,TeX,markup,383
+2019,TextGrid,data,1
+2019,Thrift,programming,6
+2019,Turtle,data,40
+2019,Twig,markup,136
+2019,Unity3D Asset,data,16876
+2019,VBScript,programming,3
+2019,VHDL,programming,62
+2019,Vala,programming,137
+2019,Valve Data Format,data,4
+2019,Vim Snippet,markup,13
+2019,Vim script,programming,699
+2019,Visual Basic .NET,programming,11
+2019,Visual Basic 6.0,programming,1
+2019,Vue,markup,2508
+2019,Wavefront Material,data,6
+2019,Wavefront Object,data,1510
+2019,Web Ontology Language,data,2
+2019,Windows Registry Entries,data,3
+2019,Wolfram Language,programming,6
+2019,X BitMap,data,2
+2019,X PixMap,data,32
+2019,XML,data,29641
+2019,Xonsh,programming,6
+2019,YAML,data,3
+2019,Yacc,programming,8
+2019,desktop,data,10
+2019,edn,data,1
+2019,fish,programming,118
+2019,mcfunction,programming,1
+2019,nesC,programming,3
+2020,1C Enterprise,programming,11
+2020,ABAP,programming,56
+2020,API Blueprint,markup,1
+2020,ASL,programming,2
+2020,ASP.NET,programming,28
+2020,Ada,programming,2
+2020,Adblock Filter List,data,19008
+2020,Altium Designer,data,13
+2020,AutoHotkey,programming,4
+2020,Awk,programming,4
+2020,BAML,programming,11
+2020,Batchfile,programming,172
+2020,BibTeX,markup,9
+2020,C,programming,7430
+2020,C++,programming,7482
+2020,CMake,programming,1046
+2020,COLLADA,data,1
+2020,CSON,data,3
+2020,CSS,markup,7378
+2020,CSV,data,42244
+2020,Cabal Config,data,46
+2020,Checksums,data,1628
+2020,Classic ASP,programming,100
+2020,Clojure,programming,54
+2020,CoNLL-U,data,1
+2020,CoffeeScript,programming,4
+2020,ColdFusion CFC,programming,12
+2020,Cuda,programming,22
+2020,DIGITAL Command Language,programming,2
+2020,DM,programming,11
+2020,Dart,programming,2470
+2020,Diff,data,3385
+2020,Dockerfile,programming,365
+2020,Dotenv,data,276
+2020,E-mail,data,1
+2020,EJS,markup,229
+2020,EQ,programming,31
+2020,Edge,markup,3
+2020,EditorConfig,data,24
+2020,Elixir,programming,35
+2020,Elm,programming,2
+2020,Emacs Lisp,programming,477
+2020,Erlang,programming,9
+2020,F#,programming,6
+2020,Forth,programming,227
+2020,Fortran Free Form,programming,134
+2020,G-code,programming,8
+2020,GCC Machine Description,programming,36210
+2020,GDB,programming,1
+2020,GEDCOM,data,2
+2020,GLSL,programming,62
+2020,GN,data,394
+2020,Gerber Image,data,4
+2020,Gherkin,programming,142
+2020,Git Config,data,79
+2020,Glyph Bitmap Distribution Format,data,10
+2020,Gnuplot,programming,5
+2020,Go,programming,1721
+2020,Go Template,markup,143
+2020,Godot Resource,data,85
+2020,Gradle,data,1658
+2020,GraphQL,data,173
+2020,Graphviz (DOT),data,1
+2020,Groovy,programming,261
+2020,HCL,programming,223
+2020,HLSL,programming,3
+2020,HTML,markup,1720
+2020,HTML+EEX,markup,14
+2020,HTML+ERB,markup,1892
+2020,HTML+PHP,markup,62
+2020,HTML+Razor,markup,655
+2020,HTTP,data,24
+2020,HXML,data,6
+2020,Haml,markup,60
+2020,Handlebars,markup,956
+2020,Haskell,programming,684
+2020,Haxe,programming,380
+2020,INI,data,331
+2020,Ignore List,data,1635
+2020,Ink,programming,10
+2020,JSON,data,64
+2020,Java,programming,39091
+2020,Java Server Pages,programming,1631
+2020,JavaScript,programming,42526
+2020,Jest Snapshot,data,193
+2020,Jinja,markup,25
+2020,Julia,programming,212
+2020,Jupyter Notebook,markup,1765
+2020,Kotlin,programming,7021
+2020,LLVM TableGen,programming,4
+2020,LabVIEW,programming,2
+2020,Less,markup,328
+2020,Linker Script,programming,15
+2020,Liquid,markup,26
+2020,Literate Haskell,programming,9
+2020,Logos,programming,11
+2020,LookML,programming,2
+2020,Lua,programming,739
+2020,M3U,data,30
+2020,MDX,markup,16
+2020,Makefile,programming,150
+2020,Mako,programming,11
+2020,Mermaid,markup,5
+2020,Microsoft Visual Studio Solution,data,507
+2020,Module Management System,programming,1
+2020,Mustache,markup,1
+2020,NEON,data,2
+2020,NSIS,programming,2
+2020,Ninja,data,39
+2020,Nix,programming,173
+2020,Nunjucks,markup,29
+2020,OCaml,programming,148
+2020,OpenSCAD,programming,17
+2020,PHP,programming,31
+2020,PLSQL,programming,153
+2020,Pascal,programming,181
+2020,Perl,programming,12
+2020,PlantUML,data,11
+2020,PostCSS,markup,1
+2020,PostScript,markup,6
+2020,PowerShell,programming,120
+2020,Prisma,data,62
+2020,Processing,programming,44
+2020,Promela,programming,2
+2020,Protocol Buffer,data,79
+2020,Public Key,data,7
+2020,Pug,markup,129
+2020,PureBasic,programming,65
+2020,Python,programming,51771
+2020,QML,programming,72
+2020,R,programming,136
+2020,RAML,markup,1
+2020,Racket,programming,2
+2020,Raku,programming,186
+2020,Raw token data,data,1
+2020,Red,programming,69
+2020,Regular Expression,data,1
+2020,Rich Text Format,markup,8
+2020,RobotFramework,programming,56
+2020,Roff,markup,4
+2020,Ruby,programming,3518
+2020,SAS,programming,10
+2020,SCSS,markup,2621
+2020,SQL,data,32
+2020,STL,data,29
+2020,SVG,data,2332
+2020,Sass,markup,121
+2020,Scala,programming,1202
+2020,Scheme,programming,32
+2020,Shell,programming,2310
+2020,Slim,markup,118
+2020,SourcePawn,programming,20
+2020,Standard ML,programming,20
+2020,Starlark,programming,1
+2020,Stata,programming,3
+2020,Stylus,markup,21
+2020,SuperCollider,programming,3
+2020,Svelte,markup,68
+2020,Swift,programming,3916
+2020,TOML,data,386
+2020,TSV,data,25
+2020,Tcl,programming,23
+2020,Tcsh,programming,39
+2020,TeX,markup,795
+2020,Thrift,programming,4
+2020,Turtle,data,7
+2020,Twig,markup,623
+2020,Unity3D Asset,data,22081
+2020,VBScript,programming,2
+2020,VHDL,programming,11
+2020,Vala,programming,4
+2020,Vim Snippet,markup,17
+2020,Vim script,programming,598
+2020,Visual Basic .NET,programming,67
+2020,Volt,programming,1
+2020,Vue,markup,4465
+2020,WDL,programming,1
+2020,Wavefront Material,data,6
+2020,Wavefront Object,data,3383
+2020,Web Ontology Language,data,1
+2020,WebVTT,data,1
+2020,Windows Registry Entries,data,9
+2020,X BitMap,data,1
+2020,XML,data,39212
+2020,XSLT,programming,3
+2020,Xonsh,programming,10
+2020,YAML,data,4
+2020,desktop,data,29
+2020,edn,data,2
+2020,fish,programming,139
+2020,kvlang,markup,28
+2020,nanorc,data,1
+2020,nesC,programming,4
+2020,sed,programming,6
+2021,1C Enterprise,programming,44
+2021,ABAP,programming,78
+2021,AIDL,programming,2
+2021,API Blueprint,markup,1
+2021,ASL,programming,7
+2021,ASP.NET,programming,217
+2021,Ada,programming,147
+2021,Adblock Filter List,data,12466
+2021,Agda,programming,11
+2021,Altium Designer,data,103
+2021,AppleScript,programming,1
+2021,AspectJ,programming,21
+2021,AutoHotkey,programming,3
+2021,Awk,programming,2
+2021,BAML,programming,45
+2021,Batchfile,programming,207
+2021,BibTeX,markup,21
+2021,Blade,markup,1
+2021,C,programming,13958
+2021,C++,programming,10418
+2021,CAP CDS,programming,4
+2021,CMake,programming,508
+2021,CSON,data,2
+2021,CSS,markup,9570
+2021,CSV,data,14889
+2021,Cabal Config,data,71
+2021,Checksums,data,1840
+2021,Classic ASP,programming,13
+2021,Clojure,programming,466
+2021,Crystal,programming,2
+2021,Csound Document,programming,1
+2021,Cuda,programming,8
+2021,Cython,programming,42
+2021,DIGITAL Command Language,programming,4
+2021,DM,programming,33
+2021,Dart,programming,4676
+2021,Daslang,programming,24
+2021,Diff,data,3315
+2021,Dockerfile,programming,50
+2021,Dotenv,data,335
+2021,E-mail,data,241
+2021,EJS,markup,417
+2021,Edge,markup,15
+2021,EditorConfig,data,34
+2021,Elixir,programming,2
+2021,Emacs Lisp,programming,484
+2021,Erlang,programming,25
+2021,F#,programming,19
+2021,Fennel,programming,32
+2021,FlatBuffers,data,2
+2021,Forth,programming,80
+2021,Fortran Free Form,programming,46
+2021,G-code,programming,1
+2021,GCC Machine Description,programming,26174
+2021,GDB,programming,1
+2021,GLSL,programming,640
+2021,GN,data,678
+2021,GSC,programming,3
+2021,Genero per,markup,6
+2021,Gerber Image,data,7
+2021,Gherkin,programming,202
+2021,Git Config,data,79
+2021,Gleam,programming,2
+2021,Glyph Bitmap Distribution Format,data,5
+2021,Go,programming,2067
+2021,Go Template,markup,55
+2021,Godot Resource,data,61
+2021,Gradle,data,1784
+2021,GraphQL,data,44
+2021,Graphviz (DOT),data,10
+2021,Groovy,programming,110
+2021,Groovy Server Pages,programming,1
+2021,HCL,programming,549
+2021,HLSL,programming,2
+2021,HTML,markup,534
+2021,HTML+ERB,markup,3216
+2021,HTML+PHP,markup,57
+2021,HTML+Razor,markup,803
+2021,HTTP,data,15
+2021,HXML,data,13
+2021,Haml,markup,1
+2021,Handlebars,markup,1017
+2021,Haskell,programming,717
+2021,Haxe,programming,396
+2021,INI,data,386
+2021,Ignore List,data,1854
+2021,JSON,data,59
+2021,JSON5,data,2
+2021,Java,programming,37999
+2021,Java Server Pages,programming,1448
+2021,JavaScript,programming,50117
+2021,Jest Snapshot,data,90
+2021,Jinja,markup,8
+2021,Jolie,programming,3
+2021,Jsonnet,programming,1
+2021,Julia,programming,123
+2021,Jupyter Notebook,markup,1654
+2021,Kotlin,programming,8070
+2021,LLVM,programming,6
+2021,LabVIEW,programming,2
+2021,Less,markup,473
+2021,Linker Script,programming,18
+2021,Liquid,markup,4
+2021,Literate Haskell,programming,6
+2021,LookML,programming,14
+2021,Lua,programming,1328
+2021,M3U,data,14
+2021,MDX,markup,5
+2021,Makefile,programming,239
+2021,Mako,programming,1
+2021,Mermaid,markup,1
+2021,Microsoft Visual Studio Solution,data,376
+2021,MoonScript,programming,1
+2021,NEON,data,2
+2021,NSIS,programming,1
+2021,Ninja,data,23
+2021,Nix,programming,234
+2021,Nunjucks,markup,14
+2021,OCaml,programming,1
+2021,OpenSCAD,programming,1
+2021,PHP,programming,5
+2021,PLSQL,programming,345
+2021,Parrot,programming,9
+2021,Pascal,programming,163
+2021,Perl,programming,4
+2021,PigLatin,programming,10
+2021,PlantUML,data,6
+2021,Portugol,programming,5
+2021,PostScript,markup,182
+2021,PowerShell,programming,125
+2021,Prisma,data,3
+2021,Processing,programming,166
+2021,Protocol Buffer,data,42
+2021,Protocol Buffer Text Format,data,1
+2021,Public Key,data,8
+2021,Pug,markup,143
+2021,PureBasic,programming,72
+2021,Python,programming,32850
+2021,QML,programming,147
+2021,QMake,programming,11
+2021,R,programming,189
+2021,Racket,programming,30
+2021,Raku,programming,270
+2021,Red,programming,8
+2021,Rich Text Format,markup,55
+2021,RobotFramework,programming,48
+2021,Roff,markup,4
+2021,Ruby,programming,3700
+2021,SAS,programming,4
+2021,SCSS,markup,3383
+2021,SQL,data,50
+2021,STL,data,18
+2021,SVG,data,4167
+2021,Sass,markup,147
+2021,Scala,programming,83
+2021,Scheme,programming,72
+2021,Shell,programming,2157
+2021,Slash,programming,5
+2021,Slim,markup,71
+2021,SourcePawn,programming,1
+2021,Standard ML,programming,23
+2021,Starlark,programming,2
+2021,Stata,programming,6
+2021,Stylus,markup,3
+2021,SuperCollider,programming,15
+2021,Svelte,markup,52
+2021,Swift,programming,2479
+2021,SystemVerilog,programming,75
+2021,TLA,programming,11
+2021,TOML,data,528
+2021,TSV,data,11
+2021,Tcl,programming,166
+2021,Tcsh,programming,35
+2021,TeX,markup,1184
+2021,Twig,markup,307
+2021,Unity3D Asset,data,20638
+2021,VBScript,programming,18
+2021,VHDL,programming,426
+2021,Vala,programming,56
+2021,Vim Snippet,markup,27
+2021,Vim script,programming,640
+2021,Visual Basic .NET,programming,10
+2021,Visual Basic 6.0,programming,1
+2021,Vue,markup,5996
+2021,Wavefront Material,data,17
+2021,Wavefront Object,data,4277
+2021,WebVTT,data,3
+2021,Windows Registry Entries,data,4
+2021,Wolfram Language,programming,2
+2021,XML,data,26296
+2021,XML Property List,data,1
+2021,XSLT,programming,7
+2021,Xonsh,programming,6
+2021,YAML,data,12
+2021,Yacc,programming,9
+2021,Zig,programming,1
+2021,desktop,data,4
+2021,dircolors,data,3
+2021,edn,data,11
+2021,fish,programming,113
+2021,kvlang,markup,15
+2021,xBase,programming,2
+2022,1C Enterprise,programming,5
+2022,ABAP,programming,10
+2022,ABAP CDS,programming,1
+2022,ALGOL,programming,13
+2022,ANTLR,programming,9
+2022,ASL,programming,77
+2022,ASP.NET,programming,312
+2022,Ada,programming,5
+2022,Adblock Filter List,data,19334
+2022,Altium Designer,data,12
+2022,Astro,markup,8
+2022,AutoHotkey,programming,8
+2022,Awk,programming,1
+2022,BAML,programming,12
+2022,Ballerina,programming,2
+2022,Batchfile,programming,9882
+2022,BibTeX,markup,119
+2022,Bicep,programming,89
+2022,Brightscript,programming,1
+2022,C,programming,38852
+2022,C++,programming,15887
+2022,CAP CDS,programming,9
+2022,CIL,data,2
+2022,CMake,programming,1980
+2022,COLLADA,data,4
+2022,CQL,programming,1
+2022,CSON,data,1
+2022,CSS,markup,13493
+2022,CSV,data,40734
+2022,Cabal Config,data,6
+2022,Checksums,data,666
+2022,Classic ASP,programming,15
+2022,Clojure,programming,358
+2022,Common Lisp,programming,2
+2022,Cuda,programming,1
+2022,Cypher,programming,4
+2022,Cython,programming,3
+2022,DM,programming,2
+2022,Dart,programming,6516
+2022,DataWeave,programming,16
+2022,Diff,data,201
+2022,Dockerfile,programming,92
+2022,Dotenv,data,374
+2022,E-mail,data,3
+2022,EJS,markup,1076
+2022,Edge,markup,27
+2022,EditorConfig,data,151
+2022,Elixir,programming,17
+2022,Emacs Lisp,programming,303
+2022,Erlang,programming,4
+2022,F#,programming,2
+2022,Fennel,programming,579
+2022,Forth,programming,101
+2022,Fortran Free Form,programming,698
+2022,G-code,programming,1
+2022,GCC Machine Description,programming,40556
+2022,GDShader,programming,2
+2022,GLSL,programming,38
+2022,GN,data,872
+2022,GSC,programming,16
+2022,Genero per,markup,18
+2022,Gerber Image,data,21
+2022,Gherkin,programming,139
+2022,Git Config,data,57
+2022,Go,programming,2290
+2022,Go Template,markup,23
+2022,Godot Resource,data,299
+2022,Gradle,data,1392
+2022,GraphQL,data,29
+2022,Graphviz (DOT),data,11
+2022,Groovy,programming,266
+2022,Groovy Server Pages,programming,24
+2022,HCL,programming,938
+2022,HLSL,programming,1
+2022,HTML,markup,2903
+2022,HTML+EEX,markup,1
+2022,HTML+ERB,markup,1423
+2022,HTML+PHP,markup,28
+2022,HTML+Razor,markup,1301
+2022,HTTP,data,49
+2022,HXML,data,2
+2022,Handlebars,markup,563
+2022,Haskell,programming,138
+2022,Haxe,programming,76
+2022,INI,data,1419
+2022,Ignore List,data,1926
+2022,ImageJ Macro,programming,1
+2022,Inno Setup,programming,4
+2022,JSON,data,304
+2022,JSON with Comments,data,2
+2022,JSON5,data,16
+2022,Java,programming,36939
+2022,Java Server Pages,programming,1876
+2022,JavaScript,programming,62430
+2022,Jest Snapshot,data,54
+2022,Jinja,markup,76
+2022,Julia,programming,65
+2022,Jupyter Notebook,markup,2122
+2022,Kotlin,programming,9831
+2022,Less,markup,226
+2022,Linker Script,programming,42
+2022,Liquid,markup,318
+2022,LookML,programming,1
+2022,Lua,programming,1408
+2022,Luau,programming,83
+2022,M3U,data,5
+2022,MDX,markup,31
+2022,Makefile,programming,709
+2022,Microsoft Visual Studio Solution,data,485
+2022,Modula-3,programming,2
+2022,Mustache,markup,11
+2022,NEON,data,6
+2022,NetLogo,programming,1
+2022,Nextflow,programming,6
+2022,Ninja,data,88
+2022,Nix,programming,412
+2022,Nunjucks,markup,87
+2022,OCaml,programming,4
+2022,OMNeT++ NED,programming,1
+2022,OpenSCAD,programming,1
+2022,P4,programming,1
+2022,PHP,programming,2
+2022,PLSQL,programming,91
+2022,PLpgSQL,programming,2
+2022,Parrot,programming,10
+2022,Pascal,programming,26
+2022,Perl,programming,3
+2022,PlantUML,data,148
+2022,PostCSS,markup,3
+2022,PostScript,markup,5
+2022,PowerShell,programming,71
+2022,Prisma,data,74
+2022,Processing,programming,26
+2022,Protocol Buffer,data,77
+2022,Public Key,data,34
+2022,Pug,markup,335
+2022,PureBasic,programming,24
+2022,Python,programming,32615
+2022,QML,programming,47
+2022,QMake,programming,5
+2022,R,programming,202
+2022,RAML,markup,6
+2022,RPGLE,programming,2
+2022,Racket,programming,125
+2022,Raku,programming,154
+2022,Raw token data,data,1
+2022,Red,programming,2
+2022,Rich Text Format,markup,28
+2022,RobotFramework,programming,16
+2022,Roff,markup,3
+2022,Ruby,programming,2821
+2022,SAS,programming,7
+2022,SCSS,markup,4411
+2022,SQL,data,36
+2022,STL,data,9
+2022,SVG,data,2333
+2022,SWIG,programming,8
+2022,Sass,markup,140
+2022,Scala,programming,43
+2022,Scheme,programming,101
+2022,Scilab,programming,8
+2022,Shell,programming,2691
+2022,Slim,markup,143
+2022,Stan,programming,7
+2022,Standard ML,programming,8
+2022,Stata,programming,3
+2022,Stylus,markup,4
+2022,SuperCollider,programming,1
+2022,Svelte,markup,341
+2022,Swift,programming,1648
+2022,SystemVerilog,programming,17
+2022,TOML,data,990
+2022,TSV,data,32
+2022,Tcl,programming,5
+2022,Tcsh,programming,23
+2022,TeX,markup,883
+2022,Twig,markup,197
+2022,Unity3D Asset,data,21664
+2022,VHDL,programming,14
+2022,Vala,programming,6
+2022,Vim Snippet,markup,73
+2022,Vim script,programming,420
+2022,Visual Basic .NET,programming,247
+2022,Vue,markup,4627
+2022,WDL,programming,11
+2022,Wavefront Material,data,2
+2022,Wavefront Object,data,17194
+2022,WebVTT,data,2
+2022,Wolfram Language,programming,1
+2022,XML,data,23104
+2022,XML Property List,data,11
+2022,XSLT,programming,6
+2022,Xonsh,programming,2
+2022,YAML,data,51
+2022,Yacc,programming,2
+2022,Zig,programming,30
+2022,desktop,data,4
+2022,edn,data,51
+2022,fish,programming,167
+2022,kvlang,markup,64
+2022,nesC,programming,3
+2022,xBase,programming,1
+2023,1C Enterprise,programming,6
+2023,ABAP,programming,7
+2023,ASP.NET,programming,134
+2023,Adblock Filter List,data,9302
+2023,Altium Designer,data,75
+2023,Astro,markup,159
+2023,AutoHotkey,programming,14
+2023,B (Formal Method),programming,8
+2023,BAML,programming,21
+2023,Batchfile,programming,320
+2023,BibTeX,markup,19
+2023,Bicep,programming,7
+2023,Brightscript,programming,49
+2023,C,programming,56762
+2023,C++,programming,12205
+2023,CAP CDS,programming,1
+2023,CMake,programming,2162
+2023,COLLADA,data,3
+2023,CSS,markup,14626
+2023,CSV,data,12085
+2023,Cabal Config,data,5
+2023,Checksums,data,163
+2023,Classic ASP,programming,117
+2023,Clojure,programming,150
+2023,CoffeeScript,programming,1
+2023,ColdFusion,programming,3
+2023,Common Lisp,programming,1
+2023,Cuda,programming,8
+2023,DM,programming,5
+2023,Dart,programming,7940
+2023,Daslang,programming,12
+2023,Dhall,programming,3
+2023,Diff,data,367
+2023,Dockerfile,programming,99
+2023,Dotenv,data,469
+2023,EJS,markup,529
+2023,EditorConfig,data,315
+2023,Elixir,programming,6
+2023,Emacs Lisp,programming,244
+2023,Erlang,programming,1
+2023,F#,programming,1
+2023,Fennel,programming,40
+2023,FlatBuffers,data,1
+2023,Forth,programming,169
+2023,Fortran Free Form,programming,168
+2023,GCC Machine Description,programming,46999
+2023,GLSL,programming,59
+2023,GN,data,636
+2023,Gerber Image,data,20
+2023,Gherkin,programming,73
+2023,Git Config,data,35
+2023,Gleam,programming,2
+2023,Go,programming,2782
+2023,Go Template,markup,28
+2023,Godot Resource,data,345
+2023,Gradle,data,1514
+2023,GraphQL,data,37
+2023,Graphviz (DOT),data,100
+2023,Groovy,programming,87
+2023,HCL,programming,314
+2023,HTML,markup,215
+2023,HTML+EEX,markup,1
+2023,HTML+ERB,markup,1055
+2023,HTML+PHP,markup,64
+2023,HTML+Razor,markup,916
+2023,HTTP,data,51
+2023,Haml,markup,25
+2023,Handlebars,markup,679
+2023,Haskell,programming,27
+2023,Haxe,programming,5
+2023,INI,data,621
+2023,Ignore List,data,1913
+2023,Io,programming,1
+2023,JSON,data,178
+2023,JSON with Comments,data,28
+2023,JSON5,data,36
+2023,Java,programming,40048
+2023,Java Server Pages,programming,717
+2023,JavaScript,programming,67294
+2023,Jest Snapshot,data,42
+2023,Jinja,markup,21
+2023,Julia,programming,15
+2023,Jupyter Notebook,markup,2090
+2023,KDL,data,7
+2023,Kotlin,programming,6040
+2023,LLVM,programming,3
+2023,Lark,data,1
+2023,Latte,markup,1
+2023,Less,markup,269
+2023,LilyPond,programming,2
+2023,Linker Script,programming,24
+2023,Liquid,markup,12
+2023,Logos,programming,5
+2023,LookML,programming,31
+2023,Lua,programming,1138
+2023,Luau,programming,47
+2023,M3U,data,5
+2023,MDX,markup,15
+2023,MQL4,programming,1
+2023,Macaulay2,programming,1
+2023,Makefile,programming,124
+2023,Metal,programming,1
+2023,Microsoft Visual Studio Solution,data,382
+2023,Mustache,markup,41
+2023,NEON,data,2
+2023,Nextflow,programming,4
+2023,Nginx,data,1
+2023,Nim,programming,34
+2023,Ninja,data,131
+2023,Nix,programming,279
+2023,Nunjucks,markup,34
+2023,OCaml,programming,14
+2023,PLSQL,programming,18
+2023,PLpgSQL,programming,4
+2023,Parrot,programming,3
+2023,Pascal,programming,35
+2023,Perl,programming,5
+2023,PlantUML,data,6
+2023,PostCSS,markup,10
+2023,PostScript,markup,1
+2023,PowerShell,programming,225
+2023,Prisma,data,89
+2023,Processing,programming,325
+2023,Protocol Buffer,data,85
+2023,Public Key,data,8
+2023,Pug,markup,94
+2023,PureBasic,programming,97
+2023,PureScript,programming,7
+2023,Python,programming,35734
+2023,QML,programming,4
+2023,QMake,programming,86
+2023,R,programming,141
+2023,RON,data,5
+2023,Raku,programming,83
+2023,Raw token data,data,1
+2023,Red,programming,32
+2023,Rich Text Format,markup,9
+2023,RobotFramework,programming,101
+2023,Roff,markup,6
+2023,Ruby,programming,2617
+2023,SAS,programming,1
+2023,SCSS,markup,4915
+2023,SQL,data,12
+2023,STL,data,11
+2023,SVG,data,3400
+2023,Sass,markup,186
+2023,Scala,programming,16
+2023,Scheme,programming,41
+2023,Shell,programming,2109
+2023,Slim,markup,4
+2023,SourcePawn,programming,1
+2023,Stan,programming,2
+2023,Standard ML,programming,1
+2023,Stata,programming,13
+2023,Stylus,markup,6
+2023,Svelte,markup,554
+2023,Swift,programming,2806
+2023,TLA,programming,2
+2023,TOML,data,847
+2023,TSV,data,92
+2023,Tcl,programming,18
+2023,Tcsh,programming,39
+2023,TeX,markup,238
+2023,Turtle,data,335
+2023,Twig,markup,79
+2023,TypeScript,programming,12
+2023,Unity3D Asset,data,46559
+2023,VBScript,programming,1
+2023,VHDL,programming,80
+2023,Vala,programming,28
+2023,Verilog,programming,2
+2023,Vim script,programming,150
+2023,Visual Basic .NET,programming,28
+2023,Vue,markup,4250
+2023,WDL,programming,6
+2023,WGSL,programming,9
+2023,Wavefront Material,data,34
+2023,Wavefront Object,data,17987
+2023,Wolfram Language,programming,5
+2023,X PixMap,data,36
+2023,XML,data,15139
+2023,XML Property List,data,3
+2023,Xonsh,programming,1
+2023,YAML,data,10
+2023,Zig,programming,34
+2023,desktop,data,12
+2023,dircolors,data,1
+2023,edn,data,4
+2023,fish,programming,134
+2023,kvlang,markup,16
+2023,xBase,programming,9
+2024,1C Enterprise,programming,1
+2024,ABAP,programming,2
+2024,ASL,programming,3
+2024,ASP.NET,programming,32
+2024,Adblock Filter List,data,31874
+2024,Aiken,programming,1
+2024,Altium Designer,data,11
+2024,Astro,markup,283
+2024,Awk,programming,1
+2024,B (Formal Method),programming,1
+2024,BAML,programming,9
+2024,Batchfile,programming,106
+2024,BibTeX,markup,15
+2024,Brightscript,programming,1
+2024,C,programming,5702
+2024,C++,programming,6593
+2024,CAP CDS,programming,5
+2024,CMake,programming,961
+2024,CQL,programming,1
+2024,CSON,data,1
+2024,CSS,markup,7531
+2024,CSV,data,7416
+2024,Cabal Config,data,3
+2024,Cap'n Proto,programming,1
+2024,Checksums,data,12
+2024,Classic ASP,programming,1
+2024,Clojure,programming,68
+2024,Cython,programming,1
+2024,DIGITAL Command Language,programming,1
+2024,DM,programming,10
+2024,Dart,programming,4215
+2024,Daslang,programming,2
+2024,Diff,data,386
+2024,Dockerfile,programming,76
+2024,Dotenv,data,333
+2024,EJS,markup,67
+2024,EditorConfig,data,124
+2024,Elixir,programming,51
+2024,Elm,programming,172
+2024,Emacs Lisp,programming,130
+2024,EmberScript,programming,1
+2024,Erlang,programming,8
+2024,FlatBuffers,data,2
+2024,Forth,programming,100
+2024,Fortran Free Form,programming,70
+2024,GCC Machine Description,programming,24063
+2024,GDB,programming,1
+2024,GDShader,programming,25
+2024,GLSL,programming,32
+2024,GN,data,965
+2024,Gerber Image,data,36
+2024,Gherkin,programming,17
+2024,Git Config,data,85
+2024,Gleam,programming,13
+2024,Go,programming,2134
+2024,Go Template,markup,6
+2024,Godot Resource,data,492
+2024,Gradle,data,470
+2024,GraphQL,data,45
+2024,Groovy,programming,29
+2024,HCL,programming,412
+2024,HTML,markup,160
+2024,HTML+EEX,markup,1
+2024,HTML+ERB,markup,430
+2024,HTML+PHP,markup,110
+2024,HTML+Razor,markup,512
+2024,HTTP,data,50
+2024,Handlebars,markup,513
+2024,Haskell,programming,40
+2024,Haxe,programming,5
+2024,INI,data,410
+2024,Ignore List,data,986
+2024,Inno Setup,programming,1
+2024,Io,programming,1
+2024,JFlex,programming,1
+2024,JSON,data,65
+2024,JSON with Comments,data,14
+2024,JSON5,data,28
+2024,Java,programming,17190
+2024,Java Server Pages,programming,269
+2024,JavaScript,programming,30090
+2024,Jest Snapshot,data,54
+2024,Jinja,markup,9
+2024,Julia,programming,9
+2024,Jupyter Notebook,markup,1440
+2024,KDL,data,2
+2024,Kotlin,programming,2449
+2024,LabVIEW,programming,2
+2024,Latte,markup,7
+2024,Less,markup,27
+2024,LilyPond,programming,57
+2024,Liquid,markup,12
+2024,Lua,programming,1339
+2024,Luau,programming,2
+2024,M3U,data,20
+2024,MDX,markup,13
+2024,MQL4,programming,2
+2024,Makefile,programming,129
+2024,Microsoft Visual Studio Solution,data,254
+2024,Modula-3,programming,1
+2024,Mustache,markup,1
+2024,NEON,data,3
+2024,NSIS,programming,1
+2024,Nextflow,programming,2
+2024,Nginx,data,1
+2024,Ninja,data,56
+2024,Nix,programming,626
+2024,Nunjucks,markup,27
+2024,PLSQL,programming,21
+2024,Parrot,programming,8
+2024,Pascal,programming,13
+2024,Perl,programming,18
+2024,PlantUML,data,4
+2024,Portugol,programming,2
+2024,PostCSS,markup,10
+2024,PowerShell,programming,30
+2024,Prisma,data,74
+2024,Processing,programming,9
+2024,Protocol Buffer,data,32
+2024,Public Key,data,11
+2024,Pug,markup,33
+2024,PureBasic,programming,4
+2024,Python,programming,19082
+2024,QMake,programming,19
+2024,R,programming,74
+2024,RBS,data,1
+2024,RON,data,6
+2024,Raku,programming,53
+2024,Raw token data,data,1
+2024,Red,programming,8
+2024,Rich Text Format,markup,15
+2024,RobotFramework,programming,42
+2024,Roff,markup,4
+2024,Ruby,programming,2019
+2024,SCSS,markup,1835
+2024,STL,data,6
+2024,SVG,data,4335
+2024,Sass,markup,136
+2024,Scala,programming,11
+2024,Shell,programming,1792
+2024,Stylus,markup,3
+2024,Svelte,markup,792
+2024,Swift,programming,1801
+2024,TOML,data,987
+2024,TSV,data,6
+2024,Tcl,programming,4
+2024,Tcsh,programming,18
+2024,TeX,markup,107
+2024,Twig,markup,104
+2024,TypeScript,programming,18
+2024,Unity3D Asset,data,21958
+2024,VBScript,programming,2
+2024,VCL,programming,1
+2024,Vala,programming,31
+2024,Vim Snippet,markup,1
+2024,Vim script,programming,161
+2024,Visual Basic .NET,programming,15
+2024,Vue,markup,2266
+2024,Vyper,programming,1
+2024,WDL,programming,2
+2024,Wavefront Object,data,9375
+2024,WebAssembly,programming,1
+2024,Wolfram Language,programming,1
+2024,X PixMap,data,47
+2024,XML,data,9771
+2024,XSLT,programming,3
+2024,Zig,programming,10
+2024,desktop,data,3
+2024,fish,programming,82
+2024,iCalendar,data,17
+2024,mcfunction,programming,616
+2024,nanorc,data,2
+2024,nesC,programming,1
+2025,ANTLR,programming,51
+2025,ASP.NET,programming,1
+2025,Adblock Filter List,data,6199
+2025,Astro,markup,127
+2025,Awk,programming,2
+2025,Batchfile,programming,10
+2025,BibTeX,markup,5
+2025,C,programming,3512
+2025,C++,programming,7124
+2025,CMake,programming,23
+2025,CSS,markup,538
+2025,CSV,data,129
+2025,Checksums,data,22
+2025,Cython,programming,2
+2025,DM,programming,8
+2025,Dart,programming,148
+2025,Diff,data,799
+2025,Dockerfile,programming,19
+2025,Dotenv,data,31
+2025,EditorConfig,data,9
+2025,Elixir,programming,52
+2025,Emacs Lisp,programming,70
+2025,Forth,programming,131
+2025,Fortran Free Form,programming,612
+2025,GCC Machine Description,programming,7408
+2025,GDB,programming,1
+2025,GDShader,programming,1
+2025,GLSL,programming,1
+2025,GN,data,1975
+2025,Git Config,data,56
+2025,Go,programming,1137
+2025,Go Template,markup,7
+2025,Godot Resource,data,32
+2025,Gradle,data,253
+2025,GraphQL,data,1
+2025,HCL,programming,204
+2025,HTML,markup,2
+2025,HTML+ERB,markup,130
+2025,HTML+PHP,markup,17
+2025,Handlebars,markup,8
+2025,INI,data,35
+2025,Ignore List,data,185
+2025,JSON,data,101
+2025,JSON with Comments,data,15
+2025,JSON5,data,54
+2025,Java,programming,2610
+2025,Java Server Pages,programming,9
+2025,JavaScript,programming,8377
+2025,Jest Snapshot,data,27
+2025,Julia,programming,3
+2025,Jupyter Notebook,markup,71
+2025,KDL,data,5
+2025,Kotlin,programming,851
+2025,Less,markup,1
+2025,Liquid,markup,1
+2025,Lua,programming,735
+2025,MDX,markup,6
+2025,Makefile,programming,5
+2025,Microsoft Visual Studio Solution,data,1
+2025,NEON,data,2
+2025,Nix,programming,763
+2025,Nunjucks,markup,9
+2025,Parrot,programming,3
+2025,Pascal,programming,20
+2025,Perl,programming,1
+2025,PlantUML,data,1
+2025,PowerShell,programming,12
+2025,Protocol Buffer,data,13
+2025,PureBasic,programming,1
+2025,Python,programming,3119
+2025,QML,programming,4
+2025,R,programming,4
+2025,RBS,data,2
+2025,RON,data,1
+2025,Raku,programming,82
+2025,Red,programming,1
+2025,Ruby,programming,380
+2025,SCSS,markup,274
+2025,SVG,data,1991
+2025,Sass,markup,13
+2025,Scala,programming,3
+2025,Scheme,programming,1
+2025,Shell,programming,1183
+2025,Starlark,programming,1
+2025,Stylus,markup,9
+2025,SuperCollider,programming,1
+2025,Svelte,markup,72
+2025,Swift,programming,603
+2025,SystemVerilog,programming,13
+2025,TLA,programming,121
+2025,TOML,data,737
+2025,TeX,markup,19
+2025,Twig,markup,33
+2025,TypeScript,programming,47
+2025,Unity3D Asset,data,49
+2025,Vento,markup,1
+2025,Vim Snippet,markup,5
+2025,Vim script,programming,114
+2025,Vue,markup,1521
+2025,X PixMap,data,56
+2025,XML,data,754
+2025,XML Property List,data,2
+2025,YAML,data,3
+2025,desktop,data,2
+2025,fish,programming,82
+2025,iCalendar,data,8
+2026,ANTLR,programming,8
+2026,Adblock Filter List,data,1680
+2026,Astro,markup,50
+2026,Batchfile,programming,8
+2026,BibTeX,markup,1
+2026,C,programming,841
+2026,C++,programming,1708
+2026,CMake,programming,5
+2026,CSS,markup,261
+2026,CSV,data,16
+2026,Checksums,data,17
+2026,Dart,programming,42
+2026,Diff,data,559
+2026,Dockerfile,programming,3
+2026,Dotenv,data,10
+2026,EditorConfig,data,1
+2026,Emacs Lisp,programming,38
+2026,Forth,programming,7
+2026,Fortran Free Form,programming,263
+2026,GCC Machine Description,programming,3811
+2026,GN,data,312
+2026,Gherkin,programming,5
+2026,Git Config,data,20
+2026,Go,programming,1248
+2026,Go Template,markup,8
+2026,Gradle,data,71
+2026,HCL,programming,110
+2026,HTML,markup,4
+2026,HTML+ERB,markup,3
+2026,INI,data,70
+2026,Ignore List,data,129
+2026,JSON with Comments,data,42
+2026,JSON5,data,18
+2026,Java,programming,2111
+2026,Java Server Pages,programming,1
+2026,JavaScript,programming,2516
+2026,Jest Snapshot,data,19
+2026,Jinja,markup,5
+2026,Jupyter Notebook,markup,32
+2026,KDL,data,66
+2026,Kotlin,programming,260
+2026,LSL,programming,1
+2026,Linker Script,programming,1
+2026,Lua,programming,392
+2026,MDX,markup,1
+2026,Makefile,programming,3
+2026,NEON,data,1
+2026,Nix,programming,188
+2026,PHP,programming,9
+2026,Parrot,programming,1
+2026,Pascal,programming,8
+2026,PowerShell,programming,72
+2026,Prisma,data,1
+2026,Protocol Buffer,data,5
+2026,Python,programming,2103
+2026,Ruby,programming,206
+2026,SCSS,markup,267
+2026,SVG,data,365
+2026,Scala,programming,15
+2026,Shell,programming,827
+2026,Swift,programming,73
+2026,TOML,data,508
+2026,Tape,programming,1
+2026,Tcsh,programming,1
+2026,TeX,markup,8
+2026,TypeScript,programming,59
+2026,Unity3D Asset,data,429
+2026,Vim Snippet,markup,3
+2026,Vim script,programming,40
+2026,Vue,markup,27
+2026,XML,data,405
+2026,XSLT,programming,1
+2026,fish,programming,47
+2026,kvlang,markup,1

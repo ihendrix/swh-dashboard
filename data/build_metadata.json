@@ -1,0 +1,12 @@
+{
+  "dataset_export": "2026-06-04",
+  "total_shards": 96,
+  "targeted_shards": 96,
+  "rows_per_shard": 100000,
+  "partial": true,
+  "min_year": 1967,
+  "max_year": 2026,
+  "language_map_source": "GitHub Linguist",
+  "ambiguous_extensions_skipped": 166,
+  "generated_at_utc": "2026-09-22T12:17:23.435604+00:00"
+}
